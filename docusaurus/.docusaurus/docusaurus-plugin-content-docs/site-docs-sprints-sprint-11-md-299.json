@@ -1,0 +1,21 @@
+{
+  "unversionedId": "sprints/sprint-11",
+  "id": "sprints/sprint-11",
+  "isDocsHomePage": false,
+  "title": "Sprint 11 - Perseverance",
+  "description": "img",
+  "source": "@site/docs/sprints/sprint-11.md",
+  "permalink": "/sprints/sprint-11",
+  "editUrl": "https://git.economia.gov.br/seges-cginf/cginf-site/edit/master/docs/sprints/sprint-11.md",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "sprints",
+  "previous": {
+    "title": "Sprint 10 - Aritana Yawalapiti",
+    "permalink": "/sprints/sprint-10"
+  },
+  "next": {
+    "title": "Sprint 12 - Vira-lata Caramelo",
+    "permalink": "/sprints/sprint-12"
+  }
+}

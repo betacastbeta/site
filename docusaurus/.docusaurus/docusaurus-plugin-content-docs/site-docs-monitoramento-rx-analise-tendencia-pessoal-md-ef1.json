@@ -1,0 +1,21 @@
+{
+  "unversionedId": "monitoramento_rx/analise_tendencia/pessoal",
+  "id": "monitoramento_rx/analise_tendencia/pessoal",
+  "isDocsHomePage": false,
+  "title": "Pessoal",
+  "description": "A integração com o Superset (software que gera os gráficos) pode perder a",
+  "source": "@site/docs/monitoramento_rx/analise_tendencia/pessoal.md",
+  "permalink": "/monitoramento_rx/analise_tendencia/pessoal",
+  "editUrl": "https://git.economia.gov.br/seges-cginf/cginf-site/edit/master/docs/monitoramento_rx/analise_tendencia/pessoal.md",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "monitoramento_rx",
+  "previous": {
+    "title": "Estrutura Organizacional",
+    "permalink": "/monitoramento_rx/analise_tendencia/estrutura_organizacional"
+  },
+  "next": {
+    "title": "Custeio Administrativo",
+    "permalink": "/monitoramento_rx/analise_tendencia/custeio_administrativo"
+  }
+}

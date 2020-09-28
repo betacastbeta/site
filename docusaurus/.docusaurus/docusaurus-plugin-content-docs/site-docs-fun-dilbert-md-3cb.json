@@ -1,0 +1,21 @@
+{
+  "unversionedId": "fun/dilbert",
+  "id": "fun/dilbert",
+  "isDocsHomePage": false,
+  "title": "Dilbert",
+  "description": "img",
+  "source": "@site/docs/fun/dilbert.md",
+  "permalink": "/fun/dilbert",
+  "editUrl": "https://git.economia.gov.br/seges-cginf/cginf-site/edit/master/docs/fun/dilbert.md",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "fun",
+  "previous": {
+    "title": "xkcd",
+    "permalink": "/fun/xkcd"
+  },
+  "next": {
+    "title": "Calvin and Hobbes",
+    "permalink": "/fun/calvin"
+  }
+}

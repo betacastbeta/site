@@ -1,0 +1,17 @@
+{
+  "unversionedId": "how-to/how_to",
+  "id": "how-to/how_to",
+  "isDocsHomePage": false,
+  "title": "How To",
+  "description": "Howdy!",
+  "source": "@site/docs/how-to/how-to.md",
+  "permalink": "/how-to/how_to",
+  "editUrl": "https://git.economia.gov.br/seges-cginf/cginf-site/edit/master/docs/how-to/how-to.md",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "how_to",
+  "next": {
+    "title": "Criando uma nova página no site",
+    "permalink": "/how-to/nova-pagina"
+  }
+}

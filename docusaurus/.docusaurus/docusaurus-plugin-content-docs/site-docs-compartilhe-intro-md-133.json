@@ -1,0 +1,17 @@
+{
+  "unversionedId": "compartilhe/intro",
+  "id": "compartilhe/intro",
+  "isDocsHomePage": false,
+  "title": "Crazy Ones",
+  "description": "A magia desse site está no compartilhamento ativo de conhecimento. Não só desse",
+  "source": "@site/docs/compartilhe/intro.md",
+  "permalink": "/compartilhe/intro",
+  "editUrl": "https://git.economia.gov.br/seges-cginf/cginf-site/edit/master/docs/compartilhe/intro.md",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "compartilhe",
+  "next": {
+    "title": "Índice",
+    "permalink": "/compartilhe/compartilhe-indice"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "examples/doc1",
+  "id": "examples/doc1",
+  "isDocsHomePage": false,
+  "title": "Style Guide",
+  "description": "You can write content using GitHub-flavored Markdown syntax.",
+  "source": "@site/docs/examples/doc1.md",
+  "permalink": "/examples/doc1",
+  "editUrl": "https://git.economia.gov.br/seges-cginf/cginf-site/edit/master/docs/examples/doc1.md",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "sidebar_label": "Style Guide",
+  "sidebar": "how_to",
+  "previous": {
+    "title": "Criando uma nova página no site",
+    "permalink": "/how-to/nova-pagina"
+  },
+  "next": {
+    "title": "Document Number 2",
+    "permalink": "/examples/doc2"
+  }
+}

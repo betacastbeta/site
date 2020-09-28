@@ -1,0 +1,17 @@
+{
+  "unversionedId": "recomendacoes/seriados",
+  "id": "recomendacoes/seriados",
+  "isDocsHomePage": false,
+  "title": "Seriados",
+  "description": "Seriados, cinesseriados, filmes em serie ou seriados cinematográficos (em inglês: serial film, movie serials ou chapter plays) são filmes sequenciais, com um número limitado de episódios curtos, perfazendo no total uma história completa, que eram apresentados nos cinemas da primeira metade do século XX.",
+  "source": "@site/docs/recomendacoes/seriados.md",
+  "permalink": "/recomendacoes/seriados",
+  "editUrl": "https://git.economia.gov.br/seges-cginf/cginf-site/edit/master/docs/recomendacoes/seriados.md",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "recomendacoes",
+  "previous": {
+    "title": "TED - Ideias que valem a pena divulgar",
+    "permalink": "/recomendacoes/ted"
+  }
+}

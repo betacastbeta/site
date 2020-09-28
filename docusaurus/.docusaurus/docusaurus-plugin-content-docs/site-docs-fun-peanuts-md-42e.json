@@ -1,0 +1,21 @@
+{
+  "unversionedId": "fun/peanuts",
+  "id": "fun/peanuts",
+  "isDocsHomePage": false,
+  "title": "Peanuts",
+  "description": "img",
+  "source": "@site/docs/fun/peanuts.md",
+  "permalink": "/fun/peanuts",
+  "editUrl": "https://git.economia.gov.br/seges-cginf/cginf-site/edit/master/docs/fun/peanuts.md",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "fun",
+  "previous": {
+    "title": "Garfield",
+    "permalink": "/fun/garfield"
+  },
+  "next": {
+    "title": "Google T-Rex (rankeado)",
+    "permalink": "/fun/trex"
+  }
+}

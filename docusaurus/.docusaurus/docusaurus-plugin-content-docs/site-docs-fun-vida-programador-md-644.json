@@ -1,0 +1,21 @@
+{
+  "unversionedId": "fun/vida_programador",
+  "id": "fun/vida_programador",
+  "isDocsHomePage": false,
+  "title": "Vida de Programador",
+  "description": "img",
+  "source": "@site/docs/fun/vida_programador.md",
+  "permalink": "/fun/vida_programador",
+  "editUrl": "https://git.economia.gov.br/seges-cginf/cginf-site/edit/master/docs/fun/vida_programador.md",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "fun",
+  "previous": {
+    "title": "Calvin and Hobbes",
+    "permalink": "/fun/calvin"
+  },
+  "next": {
+    "title": "Garfield",
+    "permalink": "/fun/garfield"
+  }
+}

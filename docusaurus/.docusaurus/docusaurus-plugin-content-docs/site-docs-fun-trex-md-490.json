@@ -1,0 +1,17 @@
+{
+  "unversionedId": "fun/trex",
+  "id": "fun/trex",
+  "isDocsHomePage": false,
+  "title": "Google T-Rex (rankeado)",
+  "description": "img",
+  "source": "@site/docs/fun/trex.md",
+  "permalink": "/fun/trex",
+  "editUrl": "https://git.economia.gov.br/seges-cginf/cginf-site/edit/master/docs/fun/trex.md",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "fun",
+  "previous": {
+    "title": "Peanuts",
+    "permalink": "/fun/peanuts"
+  }
+}

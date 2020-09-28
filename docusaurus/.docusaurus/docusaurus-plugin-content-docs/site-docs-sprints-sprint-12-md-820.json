@@ -1,0 +1,17 @@
+{
+  "unversionedId": "sprints/sprint-12",
+  "id": "sprints/sprint-12",
+  "isDocsHomePage": false,
+  "title": "Sprint 12 - Vira-lata Caramelo",
+  "description": "img",
+  "source": "@site/docs/sprints/sprint-12.md",
+  "permalink": "/sprints/sprint-12",
+  "editUrl": "https://git.economia.gov.br/seges-cginf/cginf-site/edit/master/docs/sprints/sprint-12.md",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "sprints",
+  "previous": {
+    "title": "Sprint 11 - Perseverance",
+    "permalink": "/sprints/sprint-11"
+  }
+}

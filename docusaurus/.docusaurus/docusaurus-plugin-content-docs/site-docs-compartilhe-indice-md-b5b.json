@@ -1,0 +1,21 @@
+{
+  "unversionedId": "compartilhe/compartilhe-indice",
+  "id": "compartilhe/compartilhe-indice",
+  "isDocsHomePage": false,
+  "title": "Índice",
+  "description": "Com o tempo vamos organizar em categorias. Por enquanto, o conteúdo inaugural",
+  "source": "@site/docs/compartilhe/indice.md",
+  "permalink": "/compartilhe/compartilhe-indice",
+  "editUrl": "https://git.economia.gov.br/seges-cginf/cginf-site/edit/master/docs/compartilhe/indice.md",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "compartilhe",
+  "previous": {
+    "title": "Crazy Ones",
+    "permalink": "/compartilhe/intro"
+  },
+  "next": {
+    "title": "Usando o módulo locale do Python",
+    "permalink": "/compartilhe/usando_locale"
+  }
+}

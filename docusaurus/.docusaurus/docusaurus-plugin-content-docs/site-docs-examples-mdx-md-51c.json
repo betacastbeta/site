@@ -1,0 +1,17 @@
+{
+  "unversionedId": "examples/mdx",
+  "id": "examples/mdx",
+  "isDocsHomePage": false,
+  "title": "Powered by MDX",
+  "description": "You can write JSX and use React components within your Markdown thanks to MDX.",
+  "source": "@site/docs/examples/mdx.md",
+  "permalink": "/examples/mdx",
+  "editUrl": "https://git.economia.gov.br/seges-cginf/cginf-site/edit/master/docs/examples/mdx.md",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "how_to",
+  "previous": {
+    "title": "This is Document Number 3",
+    "permalink": "/examples/doc3"
+  }
+}

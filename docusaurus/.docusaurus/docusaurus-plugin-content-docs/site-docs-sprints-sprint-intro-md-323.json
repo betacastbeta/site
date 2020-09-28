@@ -1,0 +1,17 @@
+{
+  "unversionedId": "sprints/sprint-intro",
+  "id": "sprints/sprint-intro",
+  "isDocsHomePage": false,
+  "title": "Intro",
+  "description": "img",
+  "source": "@site/docs/sprints/sprint-intro.md",
+  "permalink": "/sprints/sprint-intro",
+  "editUrl": "https://git.economia.gov.br/seges-cginf/cginf-site/edit/master/docs/sprints/sprint-intro.md",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "sprints",
+  "next": {
+    "title": "Sprint 10 - Aritana Yawalapiti",
+    "permalink": "/sprints/sprint-10"
+  }
+}
