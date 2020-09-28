@@ -1,0 +1,131 @@
+/* stylelint-disable docusaurus/copyright-header */
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+ .responsiveCentered {
+  text-align: center;
+}
+
+@media screen and (max-width: 999px) {
+  .responsiveCentered {
+    text-align: left;
+  }
+}
+
+.background {
+  background: url("../../static/img/bg-3.png") no-repeat center;
+  /* background-color: var(--ifm-hero-background-color); */
+  /* width: 1600px; */
+  height: 950px;
+  /* padding-bottom: 40px; */
+}
+
+.title_text {
+  font-size: 120px;
+  font-family: 'Abril Fatface', sans-serif;
+  font-weight: 200;
+  margin-bottom: -15px;
+  text-shadow: 3px 3px var(--header-text-color);
+}
+
+.header_text {
+  font-size: 30px;
+  font-family: 'Special Elite', sans-serif;
+  padding-top: 90px;
+  margin-top: 0px;
+  color: var(--header-text-color);
+  margin-bottom: 90px;
+  font-weight: 700;
+}
+
+.opensource {
+  max-width: 40%;
+  text-align: center;
+}
+
+ .buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.features h3 {
+  text-align: center;
+}
+
+.features2 {
+  margin-top: 32px;
+  /* text-align: center; */
+}
+
+.features2 h3 {
+  font-size: 40px;
+  font-weight: 300;
+  /* color: #3d3b46; */
+  margin-bottom: 24px;
+  /* text-align: center; */
+}
+
+.features2 p {
+  font-size: 22px;
+  font-weight: 300;
+  line-height: 35.2px;
+  text-align: center;
+  /* color: #3d3b46; */
+  /* text-align: center; */
+}
+
+.featureImage {
+  height: 100px;
+  width: 100px;
+}
+
+.headerCover {
+  align-content: center;
+  max-width: 512px;
+}
+
+.cover {
+  width: 100%;
+  max-width: 2000px;
+}
+
+.coverContainer {
+  text-align: center;
+  /* background-image: url("../../static/img/bg-3.png"); */
+}
+
+.homeContainer .projectTitle small {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 14px;
+  margin-bottom: 14px;
+  line-height: 1.4;
+}
+
+@media only screen and (max-width: 1023px) {
+  .desktopOnly {
+    display: none;
+  }
+}
+
+.buttonsWrapper {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.projectTitle {
+  margin-top: 25px;
+  color: #e15799;
+}

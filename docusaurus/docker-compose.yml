@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  docusaurus:
+    build: .
+    ports:
+      - 3000:3000
+      - 35729:35729
+    volumes:
+      - ./:/usr/app
+    working_dir: /usr/app
+    command: bash -c "yarn run build && cd build; python -m SimpleHTTPServer 3000"
