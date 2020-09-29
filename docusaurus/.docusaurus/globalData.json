@@ -7,131 +7,35 @@
         {
           "name": null,
           "path": "/",
-          "mainDocId": "compartilhe/compartilhe-indice",
+          "mainDocId": "arquivo/2-mulheri",
           "docs": [
             {
-              "id": "compartilhe/compartilhe-indice",
-              "path": "/compartilhe/compartilhe-indice"
+              "id": "arquivo/1-cops",
+              "path": "/arquivo/1-cops"
             },
             {
-              "id": "compartilhe/intro",
-              "path": "/compartilhe/intro"
+              "id": "arquivo/2-mulheri",
+              "path": "/arquivo/2-mulheri"
             },
             {
-              "id": "compartilhe/usando_locale",
-              "path": "/compartilhe/usando_locale"
+              "id": "arquivo/3-lixo-fora",
+              "path": "/arquivo/3-lixo-fora"
             },
             {
-              "id": "examples/doc1",
-              "path": "/examples/doc1"
+              "id": "arquivo/4-bombeire",
+              "path": "/arquivo/4-bombeire"
             },
             {
-              "id": "examples/doc2",
-              "path": "/examples/doc2"
+              "id": "arquivo/5-loucura-2",
+              "path": "/arquivo/5-loucura-2"
             },
             {
-              "id": "examples/doc3",
-              "path": "/examples/doc3"
+              "id": "arquivo/5-paz",
+              "path": "/arquivo/5-paz"
             },
             {
-              "id": "examples/mdx",
-              "path": "/examples/mdx"
-            },
-            {
-              "id": "fun/calvin",
-              "path": "/fun/calvin"
-            },
-            {
-              "id": "fun/dilbert",
-              "path": "/fun/dilbert"
-            },
-            {
-              "id": "fun/garfield",
-              "path": "/fun/garfield"
-            },
-            {
-              "id": "fun/peanuts",
-              "path": "/fun/peanuts"
-            },
-            {
-              "id": "fun/trex",
-              "path": "/fun/trex"
-            },
-            {
-              "id": "fun/vida_programador",
-              "path": "/fun/vida_programador"
-            },
-            {
-              "id": "fun/xkcd",
-              "path": "/fun/xkcd"
-            },
-            {
-              "id": "how-to/how_to",
-              "path": "/how-to/how_to"
-            },
-            {
-              "id": "how-to/nova-pagina",
-              "path": "/how-to/nova-pagina"
-            },
-            {
-              "id": "monitoramento_rx/analise_tendencia/custeio_administrativo",
-              "path": "/monitoramento_rx/analise_tendencia/custeio_administrativo"
-            },
-            {
-              "id": "monitoramento_rx/analise_tendencia/estrutura_organizacional",
-              "path": "/monitoramento_rx/analise_tendencia/estrutura_organizacional"
-            },
-            {
-              "id": "monitoramento_rx/analise_tendencia/geral",
-              "path": "/monitoramento_rx/analise_tendencia/geral"
-            },
-            {
-              "id": "monitoramento_rx/analise_tendencia/patrimonio_uniao",
-              "path": "/monitoramento_rx/analise_tendencia/patrimonio_uniao"
-            },
-            {
-              "id": "monitoramento_rx/analise_tendencia/pessoal",
-              "path": "/monitoramento_rx/analise_tendencia/pessoal"
-            },
-            {
-              "id": "monitoramento_rx/analise_tendencia/solucoes_modernizacao",
-              "path": "/monitoramento_rx/analise_tendencia/solucoes_modernizacao"
-            },
-            {
-              "id": "monitoramento_rx/analise_tendencia/transformacao_digital",
-              "path": "/monitoramento_rx/analise_tendencia/transformacao_digital"
-            },
-            {
-              "id": "monitoramento_rx/status_atualizacao",
-              "path": "/monitoramento_rx/status_atualizacao"
-            },
-            {
-              "id": "recomendacoes/recomendacoes-hello",
-              "path": "/recomendacoes/recomendacoes-hello"
-            },
-            {
-              "id": "recomendacoes/seriados",
-              "path": "/recomendacoes/seriados"
-            },
-            {
-              "id": "recomendacoes/ted",
-              "path": "/recomendacoes/ted"
-            },
-            {
-              "id": "sprints/sprint-10",
-              "path": "/sprints/sprint-10"
-            },
-            {
-              "id": "sprints/sprint-11",
-              "path": "/sprints/sprint-11"
-            },
-            {
-              "id": "sprints/sprint-12",
-              "path": "/sprints/sprint-12"
-            },
-            {
-              "id": "sprints/sprint-intro",
-              "path": "/sprints/sprint-intro"
+              "id": "arquivo/hello",
+              "path": "/arquivo/hello"
             }
           ]
         }

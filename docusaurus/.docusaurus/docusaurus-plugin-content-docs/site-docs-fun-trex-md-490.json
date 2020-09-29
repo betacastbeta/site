@@ -6,12 +6,7 @@
   "description": "img",
   "source": "@site/docs/fun/trex.md",
   "permalink": "/fun/trex",
-  "editUrl": "https://git.economia.gov.br/seges-cginf/cginf-site/edit/master/docs/fun/trex.md",
+  "editUrl": "https://github.com/betacastbeta/site/docusaurus/edit/master/docs/fun/trex.md",
   "lastUpdatedBy": "Author",
-  "lastUpdatedAt": 1539502055,
-  "sidebar": "fun",
-  "previous": {
-    "title": "Peanuts",
-    "permalink": "/fun/peanuts"
-  }
+  "lastUpdatedAt": 1539502055
 }

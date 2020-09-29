@@ -27,7 +27,7 @@
   font-family: 'Abril Fatface', sans-serif;
   font-weight: 200;
   margin-bottom: -15px;
-  text-shadow: 3px 3px var(--header-text-color);
+  text-shadow: 4px 4px var(--header-text-color);
 }
 
 .header_text {
@@ -41,7 +41,7 @@
 }
 
 .opensource {
-  max-width: 40%;
+  max-width: 15%;
   text-align: center;
 }
 

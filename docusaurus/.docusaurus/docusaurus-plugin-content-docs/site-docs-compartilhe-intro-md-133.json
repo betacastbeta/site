@@ -6,12 +6,7 @@
   "description": "A magia desse site está no compartilhamento ativo de conhecimento. Não só desse",
   "source": "@site/docs/compartilhe/intro.md",
   "permalink": "/compartilhe/intro",
-  "editUrl": "https://git.economia.gov.br/seges-cginf/cginf-site/edit/master/docs/compartilhe/intro.md",
+  "editUrl": "https://github.com/betacastbeta/site/docusaurus/edit/master/docs/compartilhe/intro.md",
   "lastUpdatedBy": "Author",
-  "lastUpdatedAt": 1539502055,
-  "sidebar": "compartilhe",
-  "next": {
-    "title": "Índice",
-    "permalink": "/compartilhe/compartilhe-indice"
-  }
+  "lastUpdatedAt": 1539502055
 }

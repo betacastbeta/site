@@ -6,16 +6,7 @@
   "description": "Autor: Vitor Bellini",
   "source": "@site/docs/how-to/nova-pagina.md",
   "permalink": "/how-to/nova-pagina",
-  "editUrl": "https://git.economia.gov.br/seges-cginf/cginf-site/edit/master/docs/how-to/nova-pagina.md",
+  "editUrl": "https://github.com/betacastbeta/site/docusaurus/edit/master/docs/how-to/nova-pagina.md",
   "lastUpdatedBy": "Author",
-  "lastUpdatedAt": 1539502055,
-  "sidebar": "how_to",
-  "previous": {
-    "title": "How To",
-    "permalink": "/how-to/how_to"
-  },
-  "next": {
-    "title": "Style Guide",
-    "permalink": "/examples/doc1"
-  }
+  "lastUpdatedAt": 1539502055
 }

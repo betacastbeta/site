@@ -1,40 +1,49 @@
 export default {
-  "title": "multiCast",
-  "tagline": "Automação extraordinária em projetos de fluxo e apresentação de dados",
-  "url": "http://multiCast.help",
+  "title": "BetaCast",
+  "tagline": "Tudo sobre Nada",
+  "url": "http://betacast.help",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "favicon": "img/favicon.png",
-  "organizationName": "multiCast",
-  "projectName": "multiCast",
+  "organizationName": "BetaCast",
+  "projectName": "BetaCast",
   "themeConfig": {
     "announcementBar": {
       "id": "supportus-new",
-      "content": "<span style=\"font-weight:bold;font-family:Montserrat, sans-serif;\"><a href=\"https://blmbr.carrd.co/\" target=\"_blank\">VIDAS NEGRAS IMPORTAM</a> ✊ | rodando <a href=\"/sprints/sprint-12\">sprint 12: Vira-lata Caramelo 07-18/09</a><span>",
+      "content": "<span style=\"font-weight:bold;font-family:Rubik, sans-serif;\"><a href=\"https://blmbr.carrd.co/\" target=\"_blank\">VIDAS NEGRAS IMPORTAM</a> ✊ | <a href=\"/arquivo/5-paz\">29-09-2020 #5 LOUCURA [O retorno]: Tá tudo queimando. Traz mais lenha, traz mais água.</a><span>",
       "backgroundColor": "#000",
       "textColor": "#fff"
     },
     "navbar": {
-      "title": "multiCast",
+      "title": "βCast",
       "logo": {
         "alt": "logo",
-        "src": "img/logo.png"
+        "src": "img/logo-top.png"
       },
       "items": [
         {
-          "to": "/monitoramento_rx/status_atualizacao",
-          "activeBasePath": "docs/monitoramento_rx",
-          "label": "Lista WhatsApp",
+          "label": "Lista What's App",
+          "href": "https://whats.link/betacast1",
           "position": "left"
         },
         {
-          "to": "/monitoramento_rx/status_atualizacao",
-          "activeBasePath": "docs/monitoramento_rx",
+          "label": "Instagram",
+          "href": "https://www.instagram.com/betacastbeta/",
+          "position": "left"
+        },
+        {
+          "label": "YouTube",
+          "href": "https://www.youtube.com/channel/UCQ70im76p8hYpCIC_ea3N6w/",
+          "position": "left"
+        },
+        {
+          "to": "/arquivo/hello",
+          "activeBasePath": "docs/arquivo",
           "label": "Arquivo",
           "position": "left"
         },
         {
-          "href": "http://etl-cginflab.mp.intra",
+          "href": "https://github.com/betacastbeta/site",
           "position": "right",
           "label": "Github"
         }
@@ -49,11 +58,20 @@ export default {
           "items": [
             {
               "label": "Lista Whats App",
-              "href": "http://etl-cginflab.mp.intra"
+              "href": "https://whats.link/betacast1"
             },
             {
-              "label": "Arquivo",
-              "href": "http://10.209.40.111:5000/"
+              "label": "Instagram",
+              "href": "https://www.instagram.com/betacastbeta/"
+            },
+            {
+              "label": "YouTube",
+              "href": "https://www.youtube.com/channel/UCQ70im76p8hYpCIC_ea3N6w/"
+            },
+            {
+              "to": "/arquivo/hello",
+              "activeBasePath": "docs/arquivo",
+              "label": "Arquivo"
             }
           ]
         },
@@ -61,12 +79,8 @@ export default {
           "title": "Contato",
           "items": [
             {
-              "label": "+55 61 98107-1516",
-              "href": "http://0.0.0.0"
-            },
-            {
-              "label": "vitorbellini@gmail.com.br",
-              "href": "mailto:seges.cginf@planejamento.gov.br"
+              "label": "betacastbeta@gmail.com",
+              "href": "mailto:betacastbeta@gmail.com"
             }
           ]
         }
@@ -199,7 +213,7 @@ export default {
           "sidebarPath": "/app/sidebars.js",
           "showLastUpdateTime": true,
           "showLastUpdateAuthor": true,
-          "editUrl": "https://git.economia.gov.br/seges-cginf/cginf-site/edit/master/"
+          "editUrl": "https://github.com/betacastbeta/site/docusaurus/edit/master/"
         },
         "blog": {
           "showReadingTime": true,

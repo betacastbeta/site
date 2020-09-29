@@ -6,16 +6,7 @@
   "description": "A integração com o Superset (software que gera os gráficos) pode perder a",
   "source": "@site/docs/monitoramento_rx/analise_tendencia/transformacao_digital.md",
   "permalink": "/monitoramento_rx/analise_tendencia/transformacao_digital",
-  "editUrl": "https://git.economia.gov.br/seges-cginf/cginf-site/edit/master/docs/monitoramento_rx/analise_tendencia/transformacao_digital.md",
+  "editUrl": "https://github.com/betacastbeta/site/docusaurus/edit/master/docs/monitoramento_rx/analise_tendencia/transformacao_digital.md",
   "lastUpdatedBy": "Author",
-  "lastUpdatedAt": 1539502055,
-  "sidebar": "monitoramento_rx",
-  "previous": {
-    "title": "Soluções de Modernização",
-    "permalink": "/monitoramento_rx/analise_tendencia/solucoes_modernizacao"
-  },
-  "next": {
-    "title": "Patrimônio da União",
-    "permalink": "/monitoramento_rx/analise_tendencia/patrimonio_uniao"
-  }
+  "lastUpdatedAt": 1539502055
 }

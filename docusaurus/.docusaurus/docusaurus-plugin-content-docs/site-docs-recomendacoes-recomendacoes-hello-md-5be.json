@@ -6,12 +6,7 @@
   "description": "Nosso espaço para sugestões miscellaneous sobre coisas interessantes para se conhecer na vida. :)",
   "source": "@site/docs/recomendacoes/recomendacoes-hello.md",
   "permalink": "/recomendacoes/recomendacoes-hello",
-  "editUrl": "https://git.economia.gov.br/seges-cginf/cginf-site/edit/master/docs/recomendacoes/recomendacoes-hello.md",
+  "editUrl": "https://github.com/betacastbeta/site/docusaurus/edit/master/docs/recomendacoes/recomendacoes-hello.md",
   "lastUpdatedBy": "Author",
-  "lastUpdatedAt": 1539502055,
-  "sidebar": "recomendacoes",
-  "next": {
-    "title": "TED - Ideias que valem a pena divulgar",
-    "permalink": "/recomendacoes/ted"
-  }
+  "lastUpdatedAt": 1539502055
 }

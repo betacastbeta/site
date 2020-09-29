@@ -9,9 +9,10 @@ import styles from './styles.module.css';
 function ProjectTitle() {
   return (
     <div className={styles.coverContainer}>
-      {/* <img src="img/bg-3.png" className={styles.cover} /> */}
-      <h1 className={styles.title_text}>multiCast</h1>
-      <h1 className={styles.header_text}>Mas é só qualquer coisa, sobre alguma coisa. <br />
+      <h1 className={styles.title_text}>βCast</h1>
+      <img src="img/logo.png" className={styles.opensource}/>
+      {/* <img src="../../img_girl.jpg" alt="Girl in a jacket" width="500" height="600"> */}
+      <h1 className={styles.header_text}>Mas é só qualquer coisa sobre coisa alguma. <br />
                                   Pensamentos diários, ou não, sobre coisas "desimportantes".<br />
                                   De difícil compreensão para cegos, mas acessível em áudio e texto.</h1>
     </div>
@@ -34,15 +35,31 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('sprints/sprint-intro')}>
+              to={useBaseUrl('https://whats.link/betacast1')}>
               Lista What's App
+            </Link>
+            <Link
+              className={clsx(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted,
+              )}
+              to={useBaseUrl('https://www.instagram.com/betacastbeta/')}>
+              Instagram
+            </Link>
+            <Link
+              className={clsx(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted,
+              )}
+              to={useBaseUrl('https://www.youtube.com/channel/UCQ70im76p8hYpCIC_ea3N6w/')}>
+              YouTube
             </Link>
             <Link
               className={clsx(
                 'button button--outline button--third button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('recomendacoes/recomendacoes-hello')}>
+              to={useBaseUrl('arquivo/hello')}>
               Arquivo
             </Link>
           </div>

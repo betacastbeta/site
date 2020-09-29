@@ -6,12 +6,7 @@
   "description": "You can write JSX and use React components within your Markdown thanks to MDX.",
   "source": "@site/docs/examples/mdx.md",
   "permalink": "/examples/mdx",
-  "editUrl": "https://git.economia.gov.br/seges-cginf/cginf-site/edit/master/docs/examples/mdx.md",
+  "editUrl": "https://github.com/betacastbeta/site/docusaurus/edit/master/docs/examples/mdx.md",
   "lastUpdatedBy": "Author",
-  "lastUpdatedAt": 1539502055,
-  "sidebar": "how_to",
-  "previous": {
-    "title": "This is Document Number 3",
-    "permalink": "/examples/doc3"
-  }
+  "lastUpdatedAt": 1539502055
 }

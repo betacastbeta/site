@@ -59,162 +59,42 @@ export default [
 },
 {
   path: '/',
-  component: ComponentCreator('/','0f7'),
+  component: ComponentCreator('/','6bf'),
   
   routes: [
 {
-  path: '/compartilhe/compartilhe-indice',
-  component: ComponentCreator('/compartilhe/compartilhe-indice','871'),
+  path: '/arquivo/1-cops',
+  component: ComponentCreator('/arquivo/1-cops','e92'),
   exact: true,
 },
 {
-  path: '/compartilhe/intro',
-  component: ComponentCreator('/compartilhe/intro','a30'),
+  path: '/arquivo/2-mulheri',
+  component: ComponentCreator('/arquivo/2-mulheri','18f'),
   exact: true,
 },
 {
-  path: '/compartilhe/usando_locale',
-  component: ComponentCreator('/compartilhe/usando_locale','200'),
+  path: '/arquivo/3-lixo-fora',
+  component: ComponentCreator('/arquivo/3-lixo-fora','526'),
   exact: true,
 },
 {
-  path: '/examples/doc1',
-  component: ComponentCreator('/examples/doc1','cdb'),
+  path: '/arquivo/4-bombeire',
+  component: ComponentCreator('/arquivo/4-bombeire','95f'),
   exact: true,
 },
 {
-  path: '/examples/doc2',
-  component: ComponentCreator('/examples/doc2','8d5'),
+  path: '/arquivo/5-loucura-2',
+  component: ComponentCreator('/arquivo/5-loucura-2','7f7'),
   exact: true,
 },
 {
-  path: '/examples/doc3',
-  component: ComponentCreator('/examples/doc3','475'),
+  path: '/arquivo/5-paz',
+  component: ComponentCreator('/arquivo/5-paz','fc4'),
   exact: true,
 },
 {
-  path: '/examples/mdx',
-  component: ComponentCreator('/examples/mdx','0f7'),
-  exact: true,
-},
-{
-  path: '/fun/calvin',
-  component: ComponentCreator('/fun/calvin','252'),
-  exact: true,
-},
-{
-  path: '/fun/dilbert',
-  component: ComponentCreator('/fun/dilbert','856'),
-  exact: true,
-},
-{
-  path: '/fun/garfield',
-  component: ComponentCreator('/fun/garfield','132'),
-  exact: true,
-},
-{
-  path: '/fun/peanuts',
-  component: ComponentCreator('/fun/peanuts','22c'),
-  exact: true,
-},
-{
-  path: '/fun/trex',
-  component: ComponentCreator('/fun/trex','d4f'),
-  exact: true,
-},
-{
-  path: '/fun/vida_programador',
-  component: ComponentCreator('/fun/vida_programador','473'),
-  exact: true,
-},
-{
-  path: '/fun/xkcd',
-  component: ComponentCreator('/fun/xkcd','410'),
-  exact: true,
-},
-{
-  path: '/how-to/how_to',
-  component: ComponentCreator('/how-to/how_to','4c5'),
-  exact: true,
-},
-{
-  path: '/how-to/nova-pagina',
-  component: ComponentCreator('/how-to/nova-pagina','391'),
-  exact: true,
-},
-{
-  path: '/monitoramento_rx/analise_tendencia/custeio_administrativo',
-  component: ComponentCreator('/monitoramento_rx/analise_tendencia/custeio_administrativo','ce3'),
-  exact: true,
-},
-{
-  path: '/monitoramento_rx/analise_tendencia/estrutura_organizacional',
-  component: ComponentCreator('/monitoramento_rx/analise_tendencia/estrutura_organizacional','8e7'),
-  exact: true,
-},
-{
-  path: '/monitoramento_rx/analise_tendencia/geral',
-  component: ComponentCreator('/monitoramento_rx/analise_tendencia/geral','846'),
-  exact: true,
-},
-{
-  path: '/monitoramento_rx/analise_tendencia/patrimonio_uniao',
-  component: ComponentCreator('/monitoramento_rx/analise_tendencia/patrimonio_uniao','774'),
-  exact: true,
-},
-{
-  path: '/monitoramento_rx/analise_tendencia/pessoal',
-  component: ComponentCreator('/monitoramento_rx/analise_tendencia/pessoal','987'),
-  exact: true,
-},
-{
-  path: '/monitoramento_rx/analise_tendencia/solucoes_modernizacao',
-  component: ComponentCreator('/monitoramento_rx/analise_tendencia/solucoes_modernizacao','0ad'),
-  exact: true,
-},
-{
-  path: '/monitoramento_rx/analise_tendencia/transformacao_digital',
-  component: ComponentCreator('/monitoramento_rx/analise_tendencia/transformacao_digital','2e5'),
-  exact: true,
-},
-{
-  path: '/monitoramento_rx/status_atualizacao',
-  component: ComponentCreator('/monitoramento_rx/status_atualizacao','57c'),
-  exact: true,
-},
-{
-  path: '/recomendacoes/recomendacoes-hello',
-  component: ComponentCreator('/recomendacoes/recomendacoes-hello','6b4'),
-  exact: true,
-},
-{
-  path: '/recomendacoes/seriados',
-  component: ComponentCreator('/recomendacoes/seriados','e66'),
-  exact: true,
-},
-{
-  path: '/recomendacoes/ted',
-  component: ComponentCreator('/recomendacoes/ted','13e'),
-  exact: true,
-},
-{
-  path: '/sprints/sprint-10',
-  component: ComponentCreator('/sprints/sprint-10','557'),
-  exact: true,
-},
-{
-  path: '/sprints/sprint-11',
-  component: ComponentCreator('/sprints/sprint-11','e3b'),
-  exact: true,
-},
-{
-  path: '/sprints/sprint-12',
-  component: ComponentCreator('/sprints/sprint-12','d32'),
-  exact: true,
-},
-{
-  path: '/sprints/sprint-intro',
-  component: ComponentCreator('/sprints/sprint-intro','f8b'),
+  path: '/arquivo/hello',
+  component: ComponentCreator('/arquivo/hello','5a2'),
   exact: true,
 },
 ]

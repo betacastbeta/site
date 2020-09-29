@@ -6,12 +6,7 @@
   "description": "A integração com o Superset (software que gera os gráficos) pode perder a",
   "source": "@site/docs/monitoramento_rx/indicadores_gerais.md",
   "permalink": "/monitoramento_rx/status_atualizacao",
-  "editUrl": "https://git.economia.gov.br/seges-cginf/cginf-site/edit/master/docs/monitoramento_rx/indicadores_gerais.md",
+  "editUrl": "https://github.com/betacastbeta/site/docusaurus/edit/master/docs/monitoramento_rx/indicadores_gerais.md",
   "lastUpdatedBy": "Author",
-  "lastUpdatedAt": 1539502055,
-  "sidebar": "monitoramento_rx",
-  "next": {
-    "title": "Olá!",
-    "permalink": "/monitoramento_rx/analise_tendencia/geral"
-  }
+  "lastUpdatedAt": 1539502055
 }

@@ -6,12 +6,7 @@
   "description": "img",
   "source": "@site/docs/fun/xkcd.md",
   "permalink": "/fun/xkcd",
-  "editUrl": "https://git.economia.gov.br/seges-cginf/cginf-site/edit/master/docs/fun/xkcd.md",
+  "editUrl": "https://github.com/betacastbeta/site/docusaurus/edit/master/docs/fun/xkcd.md",
   "lastUpdatedBy": "Author",
-  "lastUpdatedAt": 1539502055,
-  "sidebar": "fun",
-  "next": {
-    "title": "Dilbert",
-    "permalink": "/fun/dilbert"
-  }
+  "lastUpdatedAt": 1539502055
 }

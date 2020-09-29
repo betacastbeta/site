@@ -6,16 +6,7 @@
   "description": "Autor: Augusto Herrmann",
   "source": "@site/docs/compartilhe/usando-locale.md",
   "permalink": "/compartilhe/usando_locale",
-  "editUrl": "https://git.economia.gov.br/seges-cginf/cginf-site/edit/master/docs/compartilhe/usando-locale.md",
+  "editUrl": "https://github.com/betacastbeta/site/docusaurus/edit/master/docs/compartilhe/usando-locale.md",
   "lastUpdatedBy": "Author",
-  "lastUpdatedAt": 1539502055,
-  "sidebar": "compartilhe",
-  "previous": {
-    "title": "Índice",
-    "permalink": "/compartilhe/compartilhe-indice"
-  },
-  "next": {
-    "title": "Criando uma nova página no site",
-    "permalink": "/how-to/nova-pagina"
-  }
+  "lastUpdatedAt": 1539502055
 }

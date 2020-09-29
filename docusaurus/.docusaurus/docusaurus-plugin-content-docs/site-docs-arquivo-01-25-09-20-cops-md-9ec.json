@@ -1,0 +1,17 @@
+{
+  "unversionedId": "arquivo/1-cops",
+  "id": "arquivo/1-cops",
+  "isDocsHomePage": false,
+  "title": "1 Cops! Rats! Me fudi!",
+  "description": "ID #1. publicado em 25/09/2020",
+  "source": "@site/docs/arquivo/01-25-09-20-cops.md",
+  "permalink": "/arquivo/1-cops",
+  "editUrl": "https://github.com/betacastbeta/site/docusaurus/edit/master/docs/arquivo/01-25-09-20-cops.md",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "arquivo",
+  "previous": {
+    "title": "2 Mulherizando-se",
+    "permalink": "/arquivo/2-mulheri"
+  }
+}
