@@ -138,20 +138,21 @@
 
 .button.button--third.button--outline {
   margin-left: 20px;
-  border-width: 2px !important;
+  box-shadow: 8px 8px var(--header-text-color);
+  /* border-width: 2px !important; */
 }
 
 .button.button--third.button--outline:not(.button--active):not(:hover) {
     color: var(--button-border-color);
-    background-color: var(--time-color);
-    border-color: var(--button-border-color);
+    background-color: var(--ifm-heading-color);
+    border-color: var(--ifm-heading-color);
 }
 
 .button.button--third.button--outline:hover {
-    background-color: var(--ifm-color-primary);
-    color: var(--ifm-navbar-background-color);
-    border-color: var(--ifm-color-primary);
-    box-shadow: 8px 8px var(--header-text-color);
+    background-color: var(--header-text-color);
+    color: var(--ifm-color-primary);
+    border-color: var(--header-text-color);
+    box-shadow: 8px 8px var(--ifm-color-primary);
 }
 
 

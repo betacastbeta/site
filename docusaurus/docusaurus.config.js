@@ -10,7 +10,7 @@ module.exports = {
   themeConfig: {
     announcementBar: {
       id: 'supportus-new',
-      content: '<span style="font-weight:bold;font-family:Rubik, sans-serif;"><a href="https://blmbr.carrd.co/" target="_blank">VIDAS NEGRAS IMPORTAM</a> ✊ | <a href="/arquivo/5-loucura-2">29-09-2020 #5 LOUCURA [O retorno]: Tá tudo queimando. Traz mais lenha, traz mais água.</a><span>',
+      content: '<span style="font-weight:bold;font-family:Rubik, sans-serif;"><a href="https://blmbr.carrd.co/" target="_blank">VIDAS NEGRAS IMPORTAM</a> ✊ | <a href="/site/arquivo/5-loucura-2">29-09-2020 #5 LOUCURA [O retorno]: Tá tudo queimando. Traz mais lenha, traz mais água.</a><span>',
       backgroundColor: '#000',
       textColor: '#fff'
     },
