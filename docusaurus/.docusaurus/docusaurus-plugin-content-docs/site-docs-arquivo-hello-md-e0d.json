@@ -5,13 +5,13 @@
   "title": "Hello",
   "description": "img",
   "source": "@site/docs/arquivo/hello.md",
-  "permalink": "/arquivo/hello",
+  "permalink": "/site/arquivo/hello",
   "editUrl": "https://github.com/betacastbeta/site/docusaurus/edit/master/docs/arquivo/hello.md",
   "lastUpdatedBy": "Author",
   "lastUpdatedAt": 1539502055,
   "sidebar": "arquivo",
   "next": {
     "title": "5 LOUCURA [O retorno]. Tá tudo queimando. Traz mais lenha, traz mais água.",
-    "permalink": "/arquivo/5-loucura-2"
+    "permalink": "/site/arquivo/5-loucura-2"
   }
 }

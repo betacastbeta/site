@@ -5,17 +5,17 @@
   "title": "2 Mulherizando-se",
   "description": "ID #2. publicado em 26/09/2020",
   "source": "@site/docs/arquivo/02-26-09-20-mulheri.md",
-  "permalink": "/arquivo/2-mulheri",
+  "permalink": "/site/arquivo/2-mulheri",
   "editUrl": "https://github.com/betacastbeta/site/docusaurus/edit/master/docs/arquivo/02-26-09-20-mulheri.md",
   "lastUpdatedBy": "Author",
   "lastUpdatedAt": 1539502055,
   "sidebar": "arquivo",
   "previous": {
     "title": "3 Fora da onde, ô cara de pau?",
-    "permalink": "/arquivo/3-lixo-fora"
+    "permalink": "/site/arquivo/3-lixo-fora"
   },
   "next": {
     "title": "1 Cops! Rats! Me fudi!",
-    "permalink": "/arquivo/1-cops"
+    "permalink": "/site/arquivo/1-cops"
   }
 }

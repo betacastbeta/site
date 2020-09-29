@@ -5,17 +5,17 @@
   "title": "5 LOUCURA [O retorno]. Tá tudo queimando. Traz mais lenha, traz mais água.",
   "description": "ID #5. publicado em 29/09/2020",
   "source": "@site/docs/arquivo/05-29-09-20-loucura-2.md",
-  "permalink": "/arquivo/5-loucura-2",
+  "permalink": "/site/arquivo/5-loucura-2",
   "editUrl": "https://github.com/betacastbeta/site/docusaurus/edit/master/docs/arquivo/05-29-09-20-loucura-2.md",
   "lastUpdatedBy": "Author",
   "lastUpdatedAt": 1539502055,
   "sidebar": "arquivo",
   "previous": {
     "title": "Hello",
-    "permalink": "/arquivo/hello"
+    "permalink": "/site/arquivo/hello"
   },
   "next": {
     "title": "4 LOUCURA. Muita queimada para pouco bombeiro. Contrata-se.",
-    "permalink": "/arquivo/4-bombeire"
+    "permalink": "/site/arquivo/4-bombeire"
   }
 }

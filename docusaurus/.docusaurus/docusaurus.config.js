@@ -1,12 +1,12 @@
 export default {
   "title": "BetaCast",
   "tagline": "Tudo sobre Nada",
-  "url": "http://betacast.help",
-  "baseUrl": "/",
+  "url": "https://betacastbeta.github.io",
+  "baseUrl": "/site/",
   "onBrokenLinks": "throw",
   "favicon": "img/favicon.png",
-  "organizationName": "BetaCast",
-  "projectName": "BetaCast",
+  "organizationName": "betacastbeta",
+  "projectName": "site",
   "themeConfig": {
     "announcementBar": {
       "id": "supportus-new",

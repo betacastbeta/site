@@ -5,17 +5,17 @@
   "title": "3 Fora da onde, ô cara de pau?",
   "description": "ID #3. publicado em 27/09/2020",
   "source": "@site/docs/arquivo/03-27-09-20-lixo-fora.md",
-  "permalink": "/arquivo/3-lixo-fora",
+  "permalink": "/site/arquivo/3-lixo-fora",
   "editUrl": "https://github.com/betacastbeta/site/docusaurus/edit/master/docs/arquivo/03-27-09-20-lixo-fora.md",
   "lastUpdatedBy": "Author",
   "lastUpdatedAt": 1539502055,
   "sidebar": "arquivo",
   "previous": {
     "title": "4 LOUCURA. Muita queimada para pouco bombeiro. Contrata-se.",
-    "permalink": "/arquivo/4-bombeire"
+    "permalink": "/site/arquivo/4-bombeire"
   },
   "next": {
     "title": "2 Mulherizando-se",
-    "permalink": "/arquivo/2-mulheri"
+    "permalink": "/site/arquivo/2-mulheri"
   }
 }

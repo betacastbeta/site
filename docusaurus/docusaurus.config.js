@@ -1,16 +1,16 @@
 module.exports = {
   title: 'BetaCast',
   tagline: 'Tudo sobre Nada',
-  url: 'http://betacast.help',
-  baseUrl: '/',
+  url: 'https://betacastbeta.github.io',
+  baseUrl: '/site/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.png',
-  organizationName: 'BetaCast', // Usually your GitHub org/user name.
-  projectName: 'BetaCast', // Usually your repo name.
+  organizationName: 'betacastbeta', // Usually your GitHub org/user name.
+  projectName: 'site', // Usually your repo name.
   themeConfig: {
     announcementBar: {
       id: 'supportus-new',
-      content: '<span style="font-weight:bold;font-family:Rubik, sans-serif;"><a href="https://blmbr.carrd.co/" target="_blank">VIDAS NEGRAS IMPORTAM</a> ✊ | <a href="/arquivo/5-paz">29-09-2020 #5 LOUCURA [O retorno]: Tá tudo queimando. Traz mais lenha, traz mais água.</a><span>',
+      content: '<span style="font-weight:bold;font-family:Rubik, sans-serif;"><a href="https://blmbr.carrd.co/" target="_blank">VIDAS NEGRAS IMPORTAM</a> ✊ | <a href="/arquivo/5-loucura-2">29-09-2020 #5 LOUCURA [O retorno]: Tá tudo queimando. Traz mais lenha, traz mais água.</a><span>',
       backgroundColor: '#000',
       textColor: '#fff'
     },
