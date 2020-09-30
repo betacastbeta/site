@@ -22,6 +22,20 @@
   /* padding-bottom: 40px; */
 }
 
+@media only screen and (max-width: 760px) {
+  /* .buttons_src-pages- {
+    /* padding: 10px; */
+    /* display: block !important; */
+  /* } */
+  .buttons {
+    /* padding: 10px; */
+    display: block !important;
+  }
+  .opensource {
+    max-width: 30% !important;
+  }
+}
+
 .title_text {
   font-size: 120px;
   font-family: 'Abril Fatface', sans-serif;

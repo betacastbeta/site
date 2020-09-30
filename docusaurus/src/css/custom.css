@@ -77,13 +77,6 @@
     font-weight: var(--ifm-button-font-weight);
   }
 
-  @media only screen and (max-width: 760px) {
-    .buttons_src-pages- {
-      /* padding: 10px; */
-      display: block !important;
-    }
-  }
-
   .button--primary:active, .button--primary.button--active {
       --ifm-button-border-color: var(--ifm-color-primary-lightest);
       --ifm-button-background-color: var(--ifm-color-primary-lightest);

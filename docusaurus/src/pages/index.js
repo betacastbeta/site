@@ -29,7 +29,7 @@ function Home() {
       <header className={styles.background}>
         <div className="container">
         <ProjectTitle />
-          <div className={styles.buttons}>
+          <div className={'button--div', styles.buttons}>
             <Link
               className={clsx(
                 'button button--outline button--secondary button--lg',
