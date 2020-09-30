@@ -34,6 +34,9 @@
   .opensource {
     max-width: 30% !important;
   }
+  .header_text {
+    padding-top: 50px !important;
+  }
 }
 
 .title_text {
