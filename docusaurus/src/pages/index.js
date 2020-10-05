@@ -12,7 +12,13 @@ function ProjectTitle() {
       <h1 className={styles.title_text}>βCast</h1>
       <img src="img/logo.png" className={styles.opensource}/>
       {/* <img src="../../img_girl.jpg" alt="Girl in a jacket" width="500" height="600"> */}
-      <h1 className={styles.header_text}>Mas é só qualquer coisa sobre coisa alguma. <br />
+      <h1 className={styles.header_text}>
+                                  [en] <br />
+                                  But it's just anything, about something. <br />
+                                  Daily thoughts, or not, about "unimportant" things. <br />
+                                  Difficult to understand for the blind, but accessible in audio and text. <br />
+                                  [pt_br] <br />
+                                  Mas é só qualquer coisa sobre coisa alguma. <br />
                                   Pensamentos diários, ou não, sobre coisas "desimportantes".<br />
                                   De difícil compreensão para cegos, mas acessível em áudio e texto.</h1>
     </div>
@@ -56,11 +62,28 @@ function Home() {
             </Link>
             <Link
               className={clsx(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted,
+              )}
+              to={useBaseUrl('https://www.youtube.com/channel/UCQ70im76p8hYpCIC_ea3N6w/')}>
+              Twitter
+            </Link>
+            <Link
+              className={clsx(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted,
+              )}
+              to={useBaseUrl('https://www.youtube.com/channel/UCQ70im76p8hYpCIC_ea3N6w/')}>
+              Medium
+            </Link>
+
+            <Link
+              className={clsx(
                 'button button--outline button--third button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('arquivo/hello')}>
-              Arquivo
+              to={useBaseUrl('hello')}>
+              Arquivo/Archive
             </Link>
           </div>
         </div>

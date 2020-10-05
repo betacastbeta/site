@@ -10,7 +10,7 @@ module.exports = {
   themeConfig: {
     announcementBar: {
       id: 'supportus-new',
-      content: '<span style="font-weight:bold;font-family:Rubik, sans-serif;"><a href="https://blmbr.carrd.co/" target="_blank">VIDAS NEGRAS IMPORTAM</a> ✊ | <a href="/site/arquivo/5-loucura-2">29-09-2020 #5 LOUCURA [O retorno]: Tá tudo queimando. Traz mais lenha, traz mais água.</a><span>',
+      content: '<span style="font-weight:bold;font-family:Rubik, sans-serif;"><a href="https://blmbr.carrd.co/" target="_blank">VIDAS NEGRAS IMPORTAM / BLACK LIVES MATTER</a> ✊ | <a href="/site/arquivo/7-mundo-internet-tese-convite">01-10-2020 #7 O Mundo, a Internet, a Tese e o Convite</a><span>',
       backgroundColor: '#000',
       textColor: '#fff'
     },
@@ -37,9 +37,19 @@ module.exports = {
           position: 'left',
         },
         {
-          to: '/arquivo/hello',
-          activeBasePath: 'docs/arquivo',
-          label: 'Arquivo',
+          label: 'Twitter',
+          href: 'https://www.youtube.com/channel/UCQ70im76p8hYpCIC_ea3N6w/',
+          position: 'left',
+        },
+        {
+          label: 'Medium',
+          href: 'https://www.youtube.com/channel/UCQ70im76p8hYpCIC_ea3N6w/',
+          position: 'left',
+        },
+        {
+          to: 'hello',
+          activeBasePath: 'docs/',
+          label: 'Arquivo/Archive',
           position: 'left',
         },
         {
@@ -68,11 +78,18 @@ module.exports = {
               href: 'https://www.youtube.com/channel/UCQ70im76p8hYpCIC_ea3N6w/',
             },
             {
-              to: '/arquivo/hello',
-              activeBasePath: 'docs/arquivo',
-              label: 'Arquivo',
+              label: 'Twitter',
+              href: 'https://www.youtube.com/channel/UCQ70im76p8hYpCIC_ea3N6w/',
             },
-
+            {
+              label: 'Medium',
+              href: 'https://www.youtube.com/channel/UCQ70im76p8hYpCIC_ea3N6w/',
+            },
+            {
+              to: 'hello',
+              activeBasePath: 'docs/',
+              label: 'Arquivo/Archive',
+            },
           ],
         },
         {
