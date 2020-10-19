@@ -6,6 +6,29 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 
+const features = [
+  {
+    title: <>Publicações</>,
+    description: (
+      <>
+        <b>[pt]</b> Toda Segunda e Sexta começando em 19/10/2020.
+        <p>
+        <b>[en]</b> Every Monday and Friday starting at 10/19/2020.
+        </p>
+      </>
+    ),
+  },
+];
+
+function Feature({title, description}) {
+  return (
+    <div className={clsx('col col--8 col--offset-2', styles.features2)}>
+      <h3 className={styles.features2}>{title}</h3>
+      <p>{description}</p>
+    </div>
+  );
+}
+
 function ProjectTitle() {
   return (
     <div className={styles.coverContainer}>
@@ -98,6 +121,17 @@ function Home() {
         </div>
       </header>
       <main>
+        {features && features.length > 0 && (
+              <section className={styles.features}>
+                <div className="container">
+                  <div className="row">
+                    {features.map((props, idx) => (
+                      <Feature key={idx} {...props} />
+                    ))}
+                  </div>
+                </div>
+              </section>
+            )}
       </main>
     </Layout>
   );
