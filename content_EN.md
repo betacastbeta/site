@@ -6,7 +6,11 @@ That's it. Hope that you drop this wave with the same joy that we do.
 
 > ID #1. published 09/25/2020. republished 10/19/2020.
 
+## Draw
+
 ![img](docusaurus/static/img/01-cops-desenho.jpg)
+
+## Text
 
 I learned they're the enemy. When the red and blue flashes, I immediately go “holy shit”. I’m fucked!! They'll see I messed up... But what was it that I messed up again!?
 
@@ -18,10 +22,10 @@ From out of nowhere I gaze, looking guilty of nothing and everything, I stare at
 
 You live and learn. Now I’m fucked. Thanks. 🙏
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q8GWsk6FiT8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## [Audio](https://www.youtube.com/watch?v=q8GWsk6FiT8&ab_channel=BetaCast)
+
+[https://www.youtube.com/watch?v=q8GWsk6FiT8&ab_channel=BetaCast](https://www.youtube.com/watch?v=q8GWsk6FiT8&ab_channel=BetaCast)
 
 **download audio:** [#1 Cops! Rats! Now I'm fucked!](docusaurus/static/img/BC-01-cops-audio-remix-en.mp4)
 
-# Spotify Playlist
-
-<iframe src="https://open.spotify.com/embed/playlist/2GDNxCkjUIfSUsqKuXUmvF" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+## [Spotify Playlist](https://open.spotify.com/playlist/2GDNxCkjUIfSUsqKuXUmvF?si=RS27nE5ZRou1R483pl8q3Q)

@@ -8,7 +8,7 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Publicações</>,
+    title: <>Publicações/Publishing</>,
     description: (
       <>
         <b>[pt]</b> Toda Segunda e Sexta começando em 19/10/2020.

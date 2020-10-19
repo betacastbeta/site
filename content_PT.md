@@ -6,7 +6,11 @@
 
 > ID #1. publicado em 25/09/2020. republicado em 19/10/2020.
 
+## Desenho
+
 ![img](docusaurus/static/img/01-cops-desenho.jpg)
+
+## Texto
 
 Aprendi que são inimigos. Quando pisca luz vermelha e azul já vem o reflexo: puta que pariu. Me fudi! Vão descobrir que fiz errado... Mas qq eu fiz mesmo!?
 
@@ -18,10 +22,10 @@ Meio que olhando do nada com a cara de culpado sem saber do que, fito o inimigo.
 
 Vivendo e aprendendo. Me fudi. Obrigado 🙏
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eljRK15j8NM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## [Audio](https://www.youtube.com/watch?v=eljRK15j8NM&ab_channel=BetaCast)
 
-**download audio:** [#1 Cops! Rats! Me fudi!](docusaurus/static/img/BC-01-cops-audio-remix-pt.mp4)
+[https://www.youtube.com/watch?v=eljRK15j8NM&ab_channel=BetaCast](https://www.youtube.com/watch?v=eljRK15j8NM&ab_channel=BetaCast)
 
-# Spotify Playlist
+**download audio:** [#1 Cops! Rats! Now I'm fucked!](docusaurus/static/img/BC-01-cops-audio-remix-pt.mp4)
 
-<iframe src="https://open.spotify.com/embed/playlist/2GDNxCkjUIfSUsqKuXUmvF" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+## [Spotify Playlist](https://open.spotify.com/playlist/2GDNxCkjUIfSUsqKuXUmvF?si=RS27nE5ZRou1R483pl8q3Q)

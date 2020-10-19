@@ -16,3 +16,9 @@ Olá, se você sabe português pode vir por [aqui](content_PT.md). A língua do 
 Mas é só qualquer coisa, sobre alguma coisa. Pensamentos diários, ou não, sobre coisas "desimportantes".
 
 De difícil compreensão para cegos, mas acessível para audição e visão.
+
+## Publicações/Publishing
+
+**[en]** Every Monday and Friday starting at 10/19/2020.
+
+**[pt]** Toda Segunda e Sexta começando em 19/10/2020.
