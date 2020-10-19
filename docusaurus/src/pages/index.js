@@ -13,14 +13,15 @@ function ProjectTitle() {
       <img src="img/logo.png" className={styles.opensource}/>
       {/* <img src="../../img_girl.jpg" alt="Girl in a jacket" width="500" height="600"> */}
       <h1 className={styles.header_text}>
-                                  [en] <br />
-                                  But it's just anything, about something. <br />
-                                  Daily thoughts, or not, about "unimportant" things. <br />
-                                  Difficult to understand for the blind, but accessible in audio and text. <br />
                                   [pt_br] <br />
                                   Mas é só qualquer coisa sobre coisa alguma. <br />
                                   Pensamentos diários, ou não, sobre coisas "desimportantes".<br />
-                                  De difícil compreensão para cegos, mas acessível em áudio e texto.</h1>
+                                  De difícil compreensão para cegos, mas acessível em áudio e texto.<br /><br />
+                                  [en] <br />
+                                  But it's just anything, about something. <br />
+                                  Daily thoughts, or not, about "unimportant" things. <br />
+                                  Difficult to understand for the blind, but accessible in audio and text. </h1>
+
     </div>
   );
 }
@@ -65,7 +66,7 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('https://www.youtube.com/channel/UCQ70im76p8hYpCIC_ea3N6w/')}>
+              to={useBaseUrl('https://twitter.com/cast_beta')}>
               Twitter
             </Link>
             <Link
@@ -73,8 +74,16 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('https://www.youtube.com/channel/UCQ70im76p8hYpCIC_ea3N6w/')}>
+              to={useBaseUrl('https://medium.com/@betacastbeta')}>
               Medium
+            </Link>
+            <Link
+              className={clsx(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted,
+              )}
+              to={useBaseUrl('https://github.com/betacastbeta/site')}>
+              Github
             </Link>
 
             <Link
@@ -83,7 +92,7 @@ function Home() {
                 styles.getStarted,
               )}
               to={useBaseUrl('hello')}>
-              Arquivo/Archive
+              Passado/Past
             </Link>
           </div>
         </div>

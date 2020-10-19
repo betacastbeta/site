@@ -3,15 +3,20 @@ module.exports = {
     "arquivo/hello-pt",
     {
       type: "category",
-      label: "Arquivo",
+      label: "Arquivo e Passado",
       collapsed: false,
-      items: ["arquivo/7-mundo-internet-tese-convite",
-              "arquivo/6-ali",
-              "arquivo/5-loucura-2",
-              "arquivo/4-bombeire",
-              "arquivo/3-lixo-fora",
-              "arquivo/2-mulheri",
-              "arquivo/1-cops",]
+      items: [
+              "arquivo/1-cops-pt",]
+    },
+  ],
+  archive: [
+    "archive/hello-en",
+    {
+      type: "category",
+      label: "Archive n' Past",
+      collapsed: false,
+      items: [
+              "archive/1-cops-en",]
     },
   ],
 };

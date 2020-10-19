@@ -10,7 +10,7 @@ module.exports = {
   themeConfig: {
     announcementBar: {
       id: 'supportus-new',
-      content: '<span style="font-weight:bold;font-family:Rubik, sans-serif;"><a href="https://blmbr.carrd.co/" target="_blank">VIDAS NEGRAS IMPORTAM / BLACK LIVES MATTER</a> ✊ | <a href="/site/arquivo/7-mundo-internet-tese-convite">01-10-2020 #7 O Mundo, a Internet, a Tese e o Convite</a><span>',
+      content: '<span style="font-weight:bold;font-family:Rubik, sans-serif;"><a href="https://blmbr.carrd.co/" target="_blank">VIDAS NEGRAS IMPORTAM / BLACK LIVES MATTER</a> ✊ | 19-10-2020 <a href="/site/arquivo/1-cops-pt">[pt] #1 Cops! Rats! Me fudi!</a> / <a href="/site/archive/1-cops-en">[en] #1 Cops! Rats! Now Im fucked!</a><span>',
       backgroundColor: '#000',
       textColor: '#fff'
     },
@@ -38,24 +38,30 @@ module.exports = {
         },
         {
           label: 'Twitter',
-          href: 'https://www.youtube.com/channel/UCQ70im76p8hYpCIC_ea3N6w/',
+          href: 'https://twitter.com/cast_beta',
           position: 'left',
         },
         {
           label: 'Medium',
-          href: 'https://www.youtube.com/channel/UCQ70im76p8hYpCIC_ea3N6w/',
-          position: 'left',
-        },
-        {
-          to: 'hello',
-          activeBasePath: 'docs/',
-          label: 'Arquivo/Archive',
+          href: 'https://medium.com/@betacastbeta',
           position: 'left',
         },
         {
           href: 'https://github.com/betacastbeta/site',
-          position: 'right',
+          position: 'left',
           label: 'Github'
+        },
+        {
+          to: 'hello',
+          activeBasePath: 'docs/',
+          label: 'Passado/Past',
+          position: 'left',
+        },
+        {
+          to: 'about',
+          activeBasePath: 'docs/about/',
+          label: 'Sobre/About',
+          position: 'right',
         },
       ],
     },
@@ -79,21 +85,25 @@ module.exports = {
             },
             {
               label: 'Twitter',
-              href: 'https://www.youtube.com/channel/UCQ70im76p8hYpCIC_ea3N6w/',
+              href: 'https://twitter.com/cast_beta',
             },
             {
               label: 'Medium',
-              href: 'https://www.youtube.com/channel/UCQ70im76p8hYpCIC_ea3N6w/',
+              href: 'https://medium.com/@betacastbeta',
+            },
+            {
+              label: 'Github',
+              href: 'https://github.com/betacastbeta/site',
             },
             {
               to: 'hello',
               activeBasePath: 'docs/',
-              label: 'Arquivo/Archive',
+              label: 'Passado/Past',
             },
           ],
         },
         {
-          title: 'Contato',
+          title: 'Contato/Contact',
           items: [
             {
               label: 'betacastbeta@gmail.com',
@@ -101,8 +111,18 @@ module.exports = {
             },
           ],
         },
+        {
+          title: 'Sobre/About',
+          items: [
+            {
+              to: '/about',
+              activeBasePath: 'docs/',
+              label: 'Aqui! Here!',
+            },
+          ],
+        },
       ],
-      copyright: `Orgulhosamente construído com Docusaurus.`,
+      copyright: `Orgulhosamente construído com Docusaurus / Proudly built with Docusaurus`,
     },
     prism: {
       theme: require('prism-react-renderer/themes/dracula'),
