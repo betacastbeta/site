@@ -6,7 +6,9 @@ module.exports = {
       label: "Arquivo e Passado",
       collapsed: false,
       items: [
-              "arquivo/1-cops-pt",]
+              "arquivo/1-cops-pt",
+              "arquivo/2-mulherizando-pt",
+              "playlist/1-playlist"]
     },
   ],
   archive: [
@@ -16,7 +18,9 @@ module.exports = {
       label: "Archive n' Past",
       collapsed: false,
       items: [
-              "archive/1-cops-en",]
+              "archive/1-cops-en",
+              "archive/2-womanize-en",
+              "playlist/1-playlist"]
     },
   ],
 };

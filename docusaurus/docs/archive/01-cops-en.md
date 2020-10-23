@@ -5,11 +5,7 @@ title: 1 Cops! Rats! Now I'm fucked!
 
 > ID #1. published 09/25/2020. republished 10/19/2020.
 
-## Draw
-
-![img](../../static/img/01-cops-desenho.jpg)
-
-## Text
+![img](../../static/img/01-cops-desenho.jpg) <iframe width="370" height="208" src="https://www.youtube.com/embed/q8GWsk6FiT8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I learned they're the enemy. When the red and blue flashes, I immediately go “holy shit”. I’m fucked!! They'll see I messed up... But what was it that I messed up again!?
 
@@ -21,12 +17,6 @@ From out of nowhere I gaze, looking guilty of nothing and everything, I stare at
 
 You live and learn. Now I’m fucked. Thanks. 🙏
 
-## Audio
-
-<iframe width="370" height="208" src="https://www.youtube.com/embed/q8GWsk6FiT8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 **download audio:** <a href="/audio/BC-01-cops-audio-remix-en.mp4" target="_blank">#1 Cops! Rats! Now I'm fucked!</a>
 
-## Spotify Playlist
-
-<iframe src="https://open.spotify.com/embed/playlist/2GDNxCkjUIfSUsqKuXUmvF" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/4K1DB7EedHPuVnhVrnvf2U" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

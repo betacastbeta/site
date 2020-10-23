@@ -10,7 +10,7 @@ module.exports = {
   themeConfig: {
     announcementBar: {
       id: 'supportus-new',
-      content: '<span style="font-weight:bold;font-family:Rubik, sans-serif;"><a href="https://blmbr.carrd.co/" target="_blank">VIDAS NEGRAS IMPORTAM / BLACK LIVES MATTER</a> ✊ | 19-10-2020 <a href="/site/arquivo/1-cops-pt">[pt] #1 Cops! Rats! Me fudi!</a> / <a href="/site/archive/1-cops-en">[en] #1 Cops! Rats! Now Im fucked!</a><span>',
+      content: '<span style="font-weight:bold;font-family:Rubik, sans-serif;"><a href="https://blmbr.carrd.co/" target="_blank">VIDAS NEGRAS IMPORTAM / BLACK LIVES MATTER</a> ✊ | 23-10-2020 #2 <a href="/site/arquivo/2-mulherizando-pt">[pt] Mulherizando-se</a> / <a href="/site/archive/2-womanize-en">[en] Womanize yourself</a><span>',
       backgroundColor: '#000',
       textColor: '#fff'
     },
