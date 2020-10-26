@@ -54,3 +54,23 @@ A semente começa a brotar...
 **download audio:** [#2 Mulherizando-se](docusaurus/static/audio/BC-02-mulherize-audio-remix-pt.mp4)
 
 ## [A Movement in the Light, Fishbone](https://open.spotify.com/track/0iOA8VM16ZgrB1wyoaiig4)
+
+# #3 Fora da onde, ô cara de pau?
+
+> ID #3. publicado em 26/09/2020. republicado em 26/10/2020.
+
+![img]((docusaurus/static/img/BC-03-fora-da-onde-desenho.jpg)
+
+Vamos combinar aqui de falar a verdade. Todo mundo sabe que mulher tá anos luz dos homens. É sério. E isso não é problema nenhum. Isso não é (ou não deveria ser) uma disputa. A gente tinha era que agradecer que elas conseguiram segurar essa porra esse tempo todo de explodir e passar a bola de uma vez.
+
+Mas assim, nasci homem né!? Existe uma parceria muito maneira também entre a gente. E os times podem se formar com todas as combinações... homens, mulheres, negros, homossexuais.. e aí começo a usar a classificação pra simplificar o entendimento e já me dá preguiça. Pessoas, beleza?
+
+Mas hj estou com a camisa do time homem. Vocês são mais espertas em tudo, mas tem uma que vocês deixaram passar. Todo homem está coberto de razão quando não joga o lixo para fora.
+
+Explico: Não dá pra sair. Vai ficar tudo aqui. A Terra não é fora. O riacho aqui do lado não é fora. O carcará comendo guimba de cigarro menos ainda. Então, querida companheira ou companheiro, pega leve da próxima vez que a lata de lixo estiver transbordando de lata de cerveja e nem adianta ficar boladx porque não vai rolar de amarrar o saco.
+
+## [Audio](https://www.youtube.com/watch?v=UnuQeXVfaQw&ab_channel=BetaCast)
+
+**download audio:** [#3 Fora da onde, ô cara de pau?](docusaurus/static/audio/BC-03-fora-onde-audio-remix-pt.mp4)
+
+## [How Strong, Red Hot Chilli Peppers](https://open.spotify.com/track/11YFZ9PQHXeHo0mFxVMLMy?si=GHLNq1a_RtuCPhpTJBfLUg)

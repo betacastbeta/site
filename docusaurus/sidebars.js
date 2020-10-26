@@ -8,6 +8,7 @@ module.exports = {
       items: [
               "arquivo/1-cops-pt",
               "arquivo/2-mulherizando-pt",
+              "arquivo/3-fora-onde-pt",
               "playlist/1-playlist"]
     },
   ],
@@ -20,6 +21,7 @@ module.exports = {
       items: [
               "archive/1-cops-en",
               "archive/2-womanize-en",
+              "archive/3-out-where",
               "playlist/1-playlist"]
     },
   ],
