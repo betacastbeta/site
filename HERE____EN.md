@@ -75,3 +75,27 @@ Let me explain: You can't get out. It's all staying here. The Earth is not out. 
 **download audio:** [#3 Out of where, you cheeky fuck?](docusaurus/static/audio/BC-03-fora-onde-audio-remix-en.mp4)
 
 ## [How Strong, Red Hot Chilli Peppers](https://open.spotify.com/track/11YFZ9PQHXeHo0mFxVMLMy?si=GHLNq1a_RtuCPhpTJBfLUg)
+
+# #4 MADNESS: Too much fires for too few firefighters. We're hiring!
+
+> ID #4. published 09/27/2020. republished 10/30/2020.
+
+![img]((docusaurus/static/img/BC-04-loucura-desenho.jpg)
+
+This internet business really is the craziest shit I've ever seen. It's crazy when I think that I can instantaneously access pretty much all of recorded human knowledge whenever I want. It's cray cray. Crazeeey! (Okay, you get the point)
+
+But now shit's about the get even crazier. What I just said is crazy enough, but I can also access thousands of ordinary situations taking place in the lives of others. I can't even thing adjectives for that one.
+
+Because of that I saw a video of a woman doing hardcore porn in a family environment, hence disturbing everyone and not giving a shit. A true firefighter never quits. That's the one who put out the fire in that bimbo's ass and was magnanimous enough to say that a lot of people were bothered by that, but she had to kill that fire by herself.
+
+That's when I remember Pastor King. THE ULTIMATE TRAGEDY IS NOT THE OPPRESSION AND CRUELTY BY THE BAD PEOPLE BUT THE SILENCE OVER THAT BY THE GOOD PEOPLE.
+
+Firefighters. We're hiring! We pay very well.
+
+DM @amearquitetura
+
+## [Audio](https://www.youtube.com/watch?v=ZlwP3vvfFL4&ab_channel=BetaCast)
+
+**download audio:** [#4 MADNESS: Too much fires for too few firefighters. We're hiring!](docusaurus/static/audio/BC-04-loucura-audio-remix-en.mp4)
+
+## [The Lost Art of Keeping a Secret, Queens of the Stone Age](https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh?si=bBsdD4ByQAuZIm1mAySsJA)

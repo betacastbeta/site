@@ -74,3 +74,27 @@ Explico: Não dá pra sair. Vai ficar tudo aqui. A Terra não é fora. O riacho 
 **download audio:** [#3 Fora da onde, ô cara de pau?](docusaurus/static/audio/BC-03-fora-onde-audio-remix-pt.mp4)
 
 ## [How Strong, Red Hot Chilli Peppers](https://open.spotify.com/track/11YFZ9PQHXeHo0mFxVMLMy?si=GHLNq1a_RtuCPhpTJBfLUg)
+
+# #4 LOUCURA: Muita queimada para pouco bombeiro. Contrata-se.
+
+> ID #4. publicado em 27/09/2020. republicado em 30/10/2020.
+
+![img]((docusaurus/static/img/BC-04-loucura-desenho.jpg)
+
+Esse negócio de internet é o negócio mais louco mesmo que eu já conheci. Parar pra pensar que eu agora consigo instantaneamente acessar praticamente todo conhecimento registrado pela humanidade é uma coisa muito louca mesmo. Louca louca. Crazeeey! (Tá bom, já deu pra entender)
+
+Mas agora vai ficar mais louco ainda. Além disso que falei, que já é loucura, eu consigo acessar também milhares de situações corriqueiras que acontecem na vida dos outros. Pra esse aqui não dá nem pra encontrar um adjetivo.
+
+Com isso vi um vídeo de uma mulher que tava gerando confusão alheia em ambiente familiar, incomodando a todos e completamente inconsequente. Bombeiro que é bombeiro nunca abandona a missão. Que foi essa outra que jogou água pra apagar o fogo da primeira e ainda teve a grandeza de dizer que tinham vários outros incomodados, mas ela teve que apagar o fogo sozinha..
+
+E aí, eu me lembro do Pastor King.. O QUE ME PREOCUPA NÃO É O GRITO DOS MAUS, MAS O SILÊNCIO DOS BONS
+
+Bombeires. Contrata-se. Paga-se muito bem.
+
+DM @amearquitetura
+
+## [Audio](https://www.youtube.com/watch?v=9r51vzuj_yo&ab_channel=BetaCast)
+
+**download audio:** [#4 LOUCURA: Muita queimada para pouco bombeiro. Contrata-se.](docusaurus/static/audio/BC-04-loucura-audio-remix-pt.mp4)
+
+## [The Lost Art of Keeping a Secret, Queens of the Stone Age](https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh?si=bBsdD4ByQAuZIm1mAySsJA)

@@ -10,7 +10,7 @@ module.exports = {
   themeConfig: {
     announcementBar: {
       id: 'supportus-new',
-      content: '<span style="font-weight:bold;font-family:Rubik, sans-serif;"><a href="https://blmbr.carrd.co/" target="_blank">VIDAS NEGRAS IMPORTAM / BLACK LIVES MATTER</a> ✊ | 26-10-2020 #3 <a href="/site/arquivo/3-fora-onde-pt">[pt] Fora da onde, ô cara de pau?</a> / <a href="/site/archive/3-out-where">[en] Out of where, you cheeky fuck?</a><span>',
+      content: '<span style="font-weight:bold;font-family:Rubik, sans-serif;"><a href="https://blmbr.carrd.co/" target="_blank">VIDAS NEGRAS IMPORTAM / BLACK LIVES MATTER</a> ✊ | 30-10-2020 #4 <a href="/site/arquivo/4-loucura-pt">[pt] LOUCURA. Muita queimada para pouco bombeiro.</a> / <a href="/site/archive/4-madness-en">[en] MADNESS. Too much fires for too few firefighters.</a><span>',
       backgroundColor: '#000',
       textColor: '#fff'
     },
