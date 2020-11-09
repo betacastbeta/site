@@ -10,6 +10,9 @@ module.exports = {
               "arquivo/2-mulherizando-pt",
               "arquivo/3-fora-onde-pt",
               "arquivo/4-loucura-pt",
+              "arquivo/5-loucura-retorno-pt",
+              "arquivo/6-ali-pt",
+              "arquivo/7-convite-pt",
               "playlist/1-playlist"]
     },
   ],
@@ -24,6 +27,8 @@ module.exports = {
               "archive/2-womanize-en",
               "archive/3-out-where",
               "archive/4-madness-en",
+              "archive/6-ali-en",
+              "archive/7-invitation-en",
               "playlist/1-playlist"]
     },
   ],

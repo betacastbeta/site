@@ -98,3 +98,62 @@ DM @amearquitetura
 **download audio:** [#4 LOUCURA: Muita queimada para pouco bombeiro. Contrata-se.](docusaurus/static/audio/BC-04-loucura-audio-remix-pt.mp4)
 
 ## [The Lost Art of Keeping a Secret, Queens of the Stone Age](https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh?si=bBsdD4ByQAuZIm1mAySsJA)
+
+# #5 LOUCURA [O retorno]: Tá tudo queimando. Traz mais lenha, traz mais água.
+
+> ID #5. publicado em 28/09/2020. republicado em 02/11/2020.
+
+![img]((docusaurus/static/img/BC-05-loucura-retorno-desenho.jpg)
+
+Que bom que estou encontrando minhas respostas mais rápido do que esperava. Descobri que com um texto apenas sou capaz de ofender quase todo mundo. Me apego no meu valor, e mentalizo o Pensador: A verdade pode ser manipulada para o mal e para o bem.
+
+Mas e aí, sobre esse episódio mesmo da garrafada? Defender a pessoa do bar quer dizer que sou recalcado e que não aceito a liberdade alheia? Defender a pessoa do carro quer dizer que tenho descaso com o espaço público dos outros?
+
+A real é que não faço a mínima ideia. Se fizesse não tinha gerado confusão, ou pior, teria causado da mesma forma. Mas talvez essa confusão seja importante para uma próxima pergunta: O que aconteceu com a gente que as atitudes e intenções (inclusive a minha) ficaram tão obscuras? O que que aconteceu pra gente comprar a ideia do Hobbes de que o homem é lobo do homem?
+
+Porque disso eu tenho certeza: Se as ações viessem do coração, liberdade não seria uma questão.
+
+## [Audio](https://www.youtube.com/watch?v=9r51vzuj_yo&ab_channel=BetaCast)
+
+**download audio:** [#5 LOUCURA [O retorno]: Tá tudo queimando. Traz mais lenha, traz mais água.](docusaurus/static/audio/BC-05-loucura-retorno-audio-remix-pt.mp4)
+
+## [Preserve, Ultramen](https://open.spotify.com/track/2sU5Ewj2W5pFTuiBFmZxbR?si=asm-cQGOTEKE3C6a0ZsJRQ)
+
+# #6 Muhammad Ali
+
+> ID #6. publicado em 29/09/2020. republicado em 06/11/2020.
+
+![img]((docusaurus/static/img/BC-06-ali-desenho.jpg)
+
+Então certa vez fiz um texto sexista sem saber que estava sendo. Fui completamente mal interpretado 2x.
+
+A primeira é grave, a segunda é gravíssima. A primeira são as pessoas que não entenderam o que eu quis dizer. É triste pensar que querendo somar você consegue subtrair. A segunda sou eu mesmo.
+
+É desesperador pensar que pode existir coisa aqui dentro que não consigo ver e que preciso tirar. Ainda bem que a primeira tem muita gentileza comigo, e me ajuda a enxergar coisas em mim que nem eu mesmo consigo ver.
+
+Boxeador que é boxeador tem que saber a hora certa de levantar a guarda, e de abaixar também.
+
+POW! Gratidão.
+
+## [Audio](https://www.youtube.com/watch?v=2Lhe2plhJtY&ab_channel=BetaCast)
+
+**download audio:** [#6 Muhammad Ali](docusaurus/static/audio/BC-0ali-audio-remix-pt.mp4)
+
+## [Se Segura Malandro, Jorge Ben Jor](https://open.spotify.com/track/3LyeB5mKdybZ7zjgjH9fcz?si=0GCkuFiiSz-sYPjySi54fQ)
+
+# #7 O Mundo, a Internet, a Tese e O Convite
+
+> ID #7. publicado em 29/09/2020. republicado em 06/11/2020.
+
+![img]((docusaurus/static/img/BC-07-convite-desenho.jpg)
+
+É isso que está acontecendo com o mundo e a internet. As pessoas estão vendo muito mais intimidade alheia do que se é capaz de assimilar. São todos os tipos de situações que existem. Do nascimento, ao sexo à morte. De todo tipo de gente, de famosos a anônimos. Todos esses acontecimentos possuem um contexto. Várias partes envolvidas participaram com alguma bagagem nessa situação.
+Mas como o volume de situações é enorme, a gente precisa preencher essa lacuna e o que sobra são nossas suposições.
+
+E aí o distanciamento começa a ocorrer. Amigos de 30 anos estão se separando por isso, políticos repugnantes estão sendo eleitos e tomando as rédeas do mundo. Não é possível que eu seja o único achando isso tudo muito maluco. Pela lei da entropia, a tendência é que esse movimento continue se expandindo no mesmo sentido. Tomara que não, porque por mais que sejamos átomos, somos muito mais também. Se viver não for correr pelo correto não sei o que é. Então bora só reorganizar o coreto e viver mais perto das poucas situações que somos capazes de assimilar com empatia!?
+
+## [Audio](https://youtu.be/18KPTM1-llY)
+
+**download audio:** [#7 O Mundo, a Internet, a Tese e O Convite](docusaurus/static/audio/BC-7-convite-audio-remix-pt.mp4)
+
+## [Se Segura Malandro, Jorge Ben Jor](https://open.spotify.com/track/3LyeB5mKdybZ7zjgjH9fcz?si=0GCkuFiiSz-sYPjySi54fQ)

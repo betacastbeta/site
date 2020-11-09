@@ -99,3 +99,38 @@ DM @amearquitetura
 **download audio:** [#4 MADNESS: Too much fires for too few firefighters. We're hiring!](docusaurus/static/audio/BC-04-loucura-audio-remix-en.mp4)
 
 ## [The Lost Art of Keeping a Secret, Queens of the Stone Age](https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh?si=bBsdD4ByQAuZIm1mAySsJA)
+
+# #6 Muhammad Ali
+
+> ID #6. published 09/29/2020. republished 11/06/2020.
+
+![img]((docusaurus/static/img/BC-06-ali-desenho.jpg)
+
+So once I wrote a sexist something without knowing it was sexist. I was misinterpreted twice.
+
+Being misinterpreted for the first time is a serious matter, when it happens a second time it's dangerously serious. First time was by people who didn’t understand what I meant. It's so sad realizing you end up subtracting when all you wanna do is add. Second time I misinterpreted myself.
+
+It's exasperating to think that there might be something in here that I can't see and that I need to root out. It's a good thing that people are all so kind to me and help me see things in myself that I myself can't see.
+
+A true boxer must know when to have his guard raised and when to lower it.
+
+POW! Thanks.
+
+## [Audio](https://www.youtube.com/watch?v=YucxkRQ9tws&ab_channel=BetaCast)
+
+**download audio:** [#6 Muhammad Ali](docusaurus/static/audio/BC-0ali-audio-remix-en.mp4)
+
+## [Se Segura Malandro, Jorge Ben Jor](https://open.spotify.com/track/3LyeB5mKdybZ7zjgjH9fcz?si=0GCkuFiiSz-sYPjySi54fQ)
+
+# #7 The World, the Internet, the Thesis and The Invitation
+
+> ID #7. published 09/30/2020. republished 11/09/2020.
+
+![img]((docusaurus/static/img/BC-07-convite-desenho.jpg)
+
+Here's what's happening to the world and the internet. People are now able to see much more of other people's intimate lives than they're able to assimilate. There are all kinds of situations. From birth to sex to death. By all kinds of people, famous and anonymous. All these events have a context. Several of the parties involved participated with some baggage.
+But because the volume of situations is huge, we need to fill that gap, and what remains are our assumptions.
+
+And then you start to grow apart. Friends of 30 years are growing apart, repugnant politicians are being elected and taking the reins of the world. I can't be the only one who thinks this is all very crazy. According to the law of entropy, there's a trend for this movement to keep expanding in the same direction. I hope not, because as much as we are atoms, we are so much more as well. If living is not doing right, I don't know what it is. So shall we get our shit together and live in closer proximity to the situations we are able to assimilate with empathy!?
+
+## [Bom Senso, E Aí King?](https://open.spotify.com/track/5Je169jvuK3BBZKy09m5Yn?si=zxOK06DnTkyzrMgehLlpuA)
