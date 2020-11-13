@@ -13,6 +13,7 @@ module.exports = {
               "arquivo/5-loucura-retorno-pt",
               "arquivo/6-ali-pt",
               "arquivo/7-convite-pt",
+              "arquivo/8-comer-viajar-pt",
               "playlist/1-playlist"]
     },
   ],
@@ -29,6 +30,7 @@ module.exports = {
               "archive/4-madness-en",
               "archive/6-ali-en",
               "archive/7-invitation-en",
+              "archive/8-eating-traveling-en",
               "playlist/1-playlist"]
     },
   ],

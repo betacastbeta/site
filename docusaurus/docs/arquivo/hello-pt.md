@@ -5,7 +5,7 @@ title: Olá
 
 ![img](../../static/img/dolphin-pt.jpg)
 
-É isso aí. Espero que curta essa onda como eu estou curtindo.
+É isso aí. Esperamos que curta essa onda como estamos curtindo.
 
 ## Arquivo e Passado
 
@@ -16,3 +16,4 @@ title: Olá
 * [#5 LOUCURA [O retorno]: Tá tudo queimando. Traz mais lenha, traz mais água. | 02/11/2020](5-loucura-retorno-pt)
 * [#6 Muhammad Ali | 06/11/2020](6-ali-pt)
 * [#7 O Mundo, a Internet, a Tese e O Convite | 09/11/2020](7-convite-pt)
+* [#8 Comer e Viajar. Pois é. | 13/11/2020](8-comer-viajar-pt)

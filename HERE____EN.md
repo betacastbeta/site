@@ -134,3 +134,37 @@ But because the volume of situations is huge, we need to fill that gap, and what
 And then you start to grow apart. Friends of 30 years are growing apart, repugnant politicians are being elected and taking the reins of the world. I can't be the only one who thinks this is all very crazy. According to the law of entropy, there's a trend for this movement to keep expanding in the same direction. I hope not, because as much as we are atoms, we are so much more as well. If living is not doing right, I don't know what it is. So shall we get our shit together and live in closer proximity to the situations we are able to assimilate with empathy!?
 
 ## [Bom Senso, E Aí King?](https://open.spotify.com/track/5Je169jvuK3BBZKy09m5Yn?si=zxOK06DnTkyzrMgehLlpuA)
+
+# #8 Eating and Traveling. Oh yeah.
+
+> ID #8. published 10/01/2020. republished 11/13/2020.
+
+![img]((docusaurus/static/img/BC-07-convite-desenho.jpg)
+
+TGIF! Tis the day of wickedness. Tis the day to stop pretending you're not who you are. Tis the day of vibrating positive energies to everything that the weekend has in store for you. Tis the day to pretend life just started! Tis the day to start living!
+
+Once said a wise man on the top of the mountain where the illusion was the entire world itself: Eating and traveling, the 4 best things in life.
+
+Even though it's self-explanatory, today is Friday and I feel like having a laugh.
+
+You know how good that shrimp carefully breaded and seasoned tastes? Oh yeah! Delicious, huh?
+
+You know those fries coming out of the fryer dripping oil that you have to be very careful lest you get burned? Oh yeah! Delicious, huh?
+
+You know that trip when you get to the airport, go through all the hoops, get a window seat and feel like you're in heaven? Oh yeah! Delicious, huh?
+
+You know that bike ride when you, not enclosed inside a car, can hear the birds, see the beautiful ladies and see everything with much more color and dimension? Oh yeah! Delicious, huh?
+
+You know that one-way bus to the Chapada scheduled to leave at 4:20? Oh yeah! Delicious, huh?
+
+You know that beautifully dressed flounder that melts in your mouth...? Oh yeah! Delicious, huh?
+
+You know that flower bred to be eaten, smelled and done all kinds of thing with...? Oh yeah! Delicious, huh?
+
+Now it's your turn to choose what you're doing on your weekend... Oh yeah! Delicious, huh?
+
+## [Audio](https://youtu.be/hGUCXjnOc5M)
+
+**download audio:** [#8 Eating and Traveling. Oh yeah.](docusaurus/static/audio/BC-8-comer-viajar-audio-remix-en.mp4)
+
+## [Caliente, Los Pericos](https://open.spotify.com/track/7k9655GBLcnaQq1w2ak29r?si=FzI8pj0gTr-qzh1vllLbng)

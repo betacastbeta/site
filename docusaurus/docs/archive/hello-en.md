@@ -15,4 +15,5 @@ That's all, folks. Hope that drop this wave with the same joy then we do.
 * [#4 MADNESS: Too much fires for too few firefighters. We're hiring! | 10/30/2020](4-madness-en)
 * #5 -> Skipped
 * [#6 Muhammad Ali | 11/06/2020](6-ali-en)
-* [#7 The World, the Internet, the Thesis and The Invitation | 11/06/2020](7-invitation-en)
+* [#7 The World, the Internet, the Thesis and The Invitation | 11/09/2020](7-invitation-en)
+* [#7 Eating and Traveling. Oh yeah. | 11/13/2020](8-eating-traveling-en)
