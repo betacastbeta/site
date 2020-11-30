@@ -17,3 +17,4 @@ title: Olá
 * [#6 Muhammad Ali | 06/11/2020](6-ali-pt)
 * [#7 O Mundo, a Internet, a Tese e O Convite | 09/11/2020](7-convite-pt)
 * [#8 Comer e Viajar. Pois é. | 13/11/2020](8-comer-viajar-pt)
+* [#9 Excesso de Paciência | 30/11/2020](9-excesso-paciencia-pt)
