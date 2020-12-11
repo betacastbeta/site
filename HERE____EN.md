@@ -183,3 +183,57 @@ But what exactly is this patience I'm talking about? Well, it's for everything..
 **download audio:** [#9 Excessive Patience](docusaurus/static/audio/BC-09-excesso-paciencia-audio-remix-en.mp3)
 
 ## [Patience, Nas & Damian “Jr. Gong” Marley](https://open.spotify.com/track/2y8pG9CF0HC4cttJ50Pufk)
+# #10 Albert of Perception
+
+> ID #10. published 12/04/2020.
+
+![img]((docusaurus/static/img/BC-10-albert-percepcao-desenho.jpg)
+
+You know, I think about that too. Having a perception of the 5 senses is trivial. They’re what we were given so we could navigate the material world. They're our “concrete” tools to have a dialogue with the world. But some people say we have other senses, but these require much more subtlety to perceive. Like that chakra shit. I got this from the internet, what else is there to be said?: "According to Jordan Duchnycz, chakras are the electric motor of the soul."
+
+This one time, going up the <O>, I open a door. It was Huxley talking about the brain's need to create a filter for the full blast of human experience, so that our species could focus on prosperity. First we survive and then we reproduce. But there's so much more he methodically studied and recorded in his experiences with LSD in his book “The Doors of Perception”. I highly recommend it	;)
+
+The other thing that makes me reflect on this is that science is something that brings us down to the physical realm. But those who managed to model nature into mathematics, like Einstein, said: "The more I get deeper in Science, the closer I get to God".
+
+So... What do I know!? Who knows... In a certain way, I wonder if our beliefs influence what happens in our lives...
+## [Audio](https://youtu.be/MrOMxUSBy5o)
+
+**download audio:** [#10 Albert of Perception](docusaurus/static/audio/BC-10-albert-percepcao-audio-remix-en.mp3)
+
+## [Uma Ajuda, O Rappa](https://open.spotify.com/track/7DNUgm6huY0X8yTaDe44M7)
+
+# #11 Water
+
+> ID #11. published 12/07/2020.
+
+![img]((docusaurus/static/img/BC-11-agua-desenho.jpg)
+
+Water is life
+Water is good
+Water is everything
+It's the most delicious thing in this planet
+(Água é Tudo, Dois Sóis
+https://open.spotify.com/track/6b0hHAWJlQpbeppWXhRdMA?si=TSdYpcnJS6aNbp8fP3YyXQ)
+
+Water is everything
+Water is light
+Water is us
+It's best thing ever in our sight
+
+It's where it comes from
+It's where it goes
+It's where I once was
+The most perfect thing that flows
+
+It's in everything
+It's in us
+We're in it
+The most beautiful thing He bestows
+
+Water is... God?
+
+## [Audio](https://youtu.be/sBRvb-RLsMM)
+
+**download audio:** [#11 Water](docusaurus/static/audio/BC-11-agua-audio-remix-en.mp3)
+
+## [Água é Tudo, Dois Sóis, Carú Ricardo](https://open.spotify.com/track/6b0hHAWJlQpbeppWXhRdMA)

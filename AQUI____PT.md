@@ -192,6 +192,8 @@ Agora é a tua vez de ESCOLHÊ qual vai SÊ do FINDÊ... Pois é! Delícia, né?
 
 ## [Caliente, Los Pericos](https://open.spotify.com/track/7k9655GBLcnaQq1w2ak29r?si=FzI8pj0gTr-qzh1vllLbng)
 
+# #9 Excesso de Paciência
+
 > ID #9. publicado em 30/11/2020.
 
 ![img]((docusaurus/static/img/BC-09-excesso-paciencia-desenho.jpg)
@@ -202,6 +204,61 @@ E que paciência é essa que eu tô falando? É pra tudo... desde receber um gri
 
 ## [Audio](https://youtu.be/jVURoFh6u3k)
 
-**download audio:** [#8 Comer e Viajar. Pois é.](docusaurus/static/audio/BC-09-excesso-paciencia-audio-remix-pt.mp3)
+**download audio:** [#9 Excesso de Paciência](docusaurus/static/audio/BC-09-excesso-paciencia-audio-remix-pt.mp3)
 
 ## [Patience, Nas & Damian “Jr. Gong” Marley](https://open.spotify.com/track/2y8pG9CF0HC4cttJ50Pufk)
+
+# #10 Albert da Percepção
+
+> ID #10. publicado em 04/12/2020.
+
+![img]((docusaurus/static/img/BC-10-albert-percepcao-desenho.jpg)
+
+Sabe, penso sobre isso também. Perceber os 5 sentidos é trivial. Foi o que recebemos para navegar aqui na materialidade. É o que parece pra gente de mais "concreto". Mas tem uns aí que dizem que temos outros sentidos, só que são muito mais sutis de perceber. Tipo papo de chacras. Essa eu peguei da internet, mas oq mais dizer?: "Segundo Jordan Duchnycz, os chakras são o motor elétrico da alma".
+
+Aí, certa vez, subindo <O> Monte, abro uma porta. Era Huxley falando sobre a necessidade do cérebro de criar um filtro para o pleno, de modo que nossa espécie pudesse focar na prosperidade. Primeiro vem sobreviver e reproduzir. Mas tem muito mais, que ele metodicamente estudou e registrou em seu ensaio com LSD no Portas da Percepção. Fica a dica ;)
+
+A outra coisa que me faz refletir sobre isso é que: algo que nos traz para a materialidade é a ciência. Só que quem conseguiu modelar a natureza em matemática, tipo Einstein, disse isso: "Quanto mais me aprofundo na Ciência mais me aproximo de Deus".
+
+Então... sei lá, né!? Vai saber... De uma certa forma nossas crenças acabam influenciando oq acontece nas nossas vidas... será!?
+
+## [Audio](https://youtu.be/jVURoFh6u3k)
+
+**download audio:** [#10 Albert da Percepção](docusaurus/static/audio/BC-10-albert-percepcao-audio-remix-pt.mp3)
+
+## [Uma Ajuda, O Rappa](https://open.spotify.com/track/7DNUgm6huY0X8yTaDe44M7)
+
+# #11 Água
+
+> ID #11. publicado em 07/12/2020.
+
+![img]((docusaurus/static/img/BC-11-agua-desenho.jpg)
+
+Água é vida
+Água é boa
+Água é tudo
+É a coisa mais gostosa desse mundo
+(Água é Tudo, Dois Sóis
+https://open.spotify.com/track/6b0hHAWJlQpbeppWXhRdMA?si=TSdYpcnJS6aNbp8fP3YyXQ)
+
+Água é toda
+Água é luz
+Água é noix
+É a coisa mais gostosa nos Lençóis
+
+É da onde vem
+Pra onde vai
+De onde fui
+É a coisa mais perfeita que aflui
+
+Está em tudo
+Está em noix
+Estamos nela
+É a coisa mais bonita da janela
+
+Água é... Deus?
+## [Audio](https://youtu.be/gg7kPDOJ1_4)
+
+**download audio:** [#11 Água](docusaurus/static/audio/BC-11-agua-audio-remix-pt.mp3)
+
+## [Água é Tudo, Dois Sóis, Carú Ricardo](https://open.spotify.com/track/6b0hHAWJlQpbeppWXhRdMA)

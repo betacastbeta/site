@@ -18,3 +18,5 @@ title: Olá
 * [#7 O Mundo, a Internet, a Tese e O Convite | 09/11/2020](7-convite-pt)
 * [#8 Comer e Viajar. Pois é. | 13/11/2020](8-comer-viajar-pt)
 * [#9 Excesso de Paciência | 30/11/2020](9-excesso-paciencia-pt)
+* [#10 Albert da Percepção | 04/12/2020](10-albert-percepcao-pt)
+* [#11 Água | 07/12/2020](11-agua-pt)

@@ -18,3 +18,5 @@ That's all, folks. Hope that drop this wave with the same joy then we do.
 * [#7 The World, the Internet, the Thesis and The Invitation | 11/09/2020](7-invitation-en)
 * [#8 Eating and Traveling. Oh yeah. | 11/13/2020](8-eating-traveling-en)
 * [#9 Patience | 11/30/2020](9-patience-en)
+* [#10 Albert of Perception | 12/04/2020](10-albert-perception-en)
+* [#11 Water | 12/07/2020](11-water-en)
