@@ -20,3 +20,7 @@ That's all, folks. Hope that drop this wave with the same joy then we do.
 * [#9 Patience | 11/30/2020](9-patience-en)
 * [#10 Albert of Perception | 12/04/2020](10-albert-perception-en)
 * [#11 Water | 12/07/2020](11-water-en)
+* [#12 Github. Social network. Resistance. Revolution. Words, images, codes. | 12/11/2020](12-github-en)
+* [#13 My Boss | 12/14/2020](13-boss-en)
+* [#14 Rent's gone up. Fuck that. | 12/18/2020](14-igpm-en)
+* [#15 Art as a Living | 12/21/2020](15-artista-profissional-en)

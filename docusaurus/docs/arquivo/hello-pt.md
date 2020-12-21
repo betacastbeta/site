@@ -20,3 +20,7 @@ title: Olá
 * [#9 Excesso de Paciência | 30/11/2020](9-excesso-paciencia-pt)
 * [#10 Albert da Percepção | 04/12/2020](10-albert-percepcao-pt)
 * [#11 Água | 07/12/2020](11-agua-pt)
+* [#12 GitHub. Rede social. Resistência. Revolução. Palavras, imagens, códigos. | 11/12/2020](12-github-pt)
+* [#13 Meu Patrão | 14/12/2020](13-patrao-pt)
+* [#14 IGP-M. Um absurdo. | 18/12/2020](14-igpm-pt)
+* [#15 Artista Profissional | 21/12/2020](15-artista-profissional-pt)

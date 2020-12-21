@@ -17,6 +17,10 @@ module.exports = {
               "arquivo/9-excesso-paciencia-pt",
               "arquivo/10-albert-percepcao-pt",
               "arquivo/11-agua-pt",
+              "arquivo/12-github-pt",
+              "arquivo/13-patrao-pt",
+              "arquivo/14-igpm-pt",
+              "arquivo/15-artista-profissional-pt",
               "playlist/1-playlist"]
     },
   ],
@@ -37,6 +41,10 @@ module.exports = {
               "archive/9-patience-en",
               "archive/10-albert-perception-en",
               "archive/11-water-en",
+              "archive/12-github-en",
+              "archive/13-boss-en",
+              "archive/14-igpm-en",
+              "archive/15-artista-profissional-en",
               "playlist/1-playlist"]
     },
   ],

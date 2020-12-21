@@ -10,7 +10,7 @@ module.exports = {
   themeConfig: {
     announcementBar: {
       id: 'supportus-new',
-      content: '<span style="font-weight:bold;font-family:Rubik, sans-serif;"><a href="https://blmbr.carrd.co/" target="_blank">VIDAS NEGRAS IMPORTAM / BLACK LIVES MATTER</a> ✊ | 07-12-2020 #10 <a href="/site/arquivo/11-agua-pt">[pt] Água</a> | <a href="/site/archive/11-agua-en">[en] Water</a><span>',
+      content: '<span style="font-weight:bold;font-family:Rubik, sans-serif;"><a href="https://blmbr.carrd.co/" target="_blank">VIDAS NEGRAS IMPORTAM / BLACK LIVES MATTER</a> ✊ | 21-12-2020 #15 <a href="/site/arquivo/15-artista-profissional-pt">[pt] Artista Profissional</a> | <a href="/site/archive/15-artista-profissional-en">[en] Art as a Living</a><span>',
       backgroundColor: '#000',
       textColor: '#fff'
     },

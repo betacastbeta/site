@@ -80,7 +80,7 @@ Let me explain: You can't get out. It's all staying here. The Earth is not out. 
 
 > ID #4. published 09/27/2020. republished 10/30/2020.
 
-![img]((docusaurus/static/img/BC-04-loucura-desenho.jpg)
+![img](docusaurus/static/img/BC-04-loucura-desenho.jpg)
 
 This internet business really is the craziest shit I've ever seen. It's crazy when I think that I can instantaneously access pretty much all of recorded human knowledge whenever I want. It's cray cray. Crazeeey! (Okay, you get the point)
 
@@ -104,7 +104,7 @@ DM @amearquitetura
 
 > ID #6. published 09/29/2020. republished 11/06/2020.
 
-![img]((docusaurus/static/img/BC-06-ali-desenho.jpg)
+![img](docusaurus/static/img/BC-06-ali-desenho.jpg)
 
 So once I wrote a sexist something without knowing it was sexist. I was misinterpreted twice.
 
@@ -126,7 +126,7 @@ POW! Thanks.
 
 > ID #7. published 09/30/2020. republished 11/09/2020.
 
-![img]((docusaurus/static/img/BC-07-convite-desenho.jpg)
+![img](docusaurus/static/img/BC-07-convite-desenho.jpg)
 
 Here's what's happening to the world and the internet. People are now able to see much more of other people's intimate lives than they're able to assimilate. There are all kinds of situations. From birth to sex to death. By all kinds of people, famous and anonymous. All these events have a context. Several of the parties involved participated with some baggage.
 But because the volume of situations is huge, we need to fill that gap, and what remains are our assumptions.
@@ -139,7 +139,7 @@ And then you start to grow apart. Friends of 30 years are growing apart, repugna
 
 > ID #8. published 10/01/2020. republished 11/13/2020.
 
-![img]((docusaurus/static/img/BC-07-convite-desenho.jpg)
+![img](docusaurus/static/img/BC-07-convite-desenho.jpg)
 
 TGIF! Tis the day of wickedness. Tis the day to stop pretending you're not who you are. Tis the day of vibrating positive energies to everything that the weekend has in store for you. Tis the day to pretend life just started! Tis the day to start living!
 
@@ -173,7 +173,7 @@ Now it's your turn to choose what you're doing on your weekend... Oh yeah! Delic
 
 > ID #9. published 11/30/2020.
 
-![img]((docusaurus/static/img/BC-09-excesso-paciencia-desenho.jpg)
+![img](docusaurus/static/img/BC-09-excesso-paciencia-desenho.jpg)
 
 Here's my two cents: the Brazilian people is so fucking amazing, so fucking intense, that even our patience is excessive. Patience is a very important trait to have to navigate this world and this life. It's pretty important to have it so your brain doesn't fry like fish in batter.
 
@@ -187,7 +187,7 @@ But what exactly is this patience I'm talking about? Well, it's for everything..
 
 > ID #10. published 12/04/2020.
 
-![img]((docusaurus/static/img/BC-10-albert-percepcao-desenho.jpg)
+![img](docusaurus/static/img/BC-10-albert-percepcao-desenho.jpg)
 
 You know, I think about that too. Having a perception of the 5 senses is trivial. They’re what we were given so we could navigate the material world. They're our “concrete” tools to have a dialogue with the world. But some people say we have other senses, but these require much more subtlety to perceive. Like that chakra shit. I got this from the internet, what else is there to be said?: "According to Jordan Duchnycz, chakras are the electric motor of the soul."
 
@@ -206,7 +206,7 @@ So... What do I know!? Who knows... In a certain way, I wonder if our beliefs in
 
 > ID #11. published 12/07/2020.
 
-![img]((docusaurus/static/img/BC-11-agua-desenho.jpg)
+![img](docusaurus/static/img/BC-11-agua-desenho.jpg)
 
 Water is life
 Water is good
@@ -237,3 +237,78 @@ Water is... God?
 **download audio:** [#11 Water](docusaurus/static/audio/BC-11-agua-audio-remix-en.mp3)
 
 ## [Água é Tudo, Dois Sóis, Carú Ricardo](https://open.spotify.com/track/6b0hHAWJlQpbeppWXhRdMA)
+
+# #12 Github. Social network. Resistance. Revolution. Words, images, codes.
+
+> ID #12. published 12/11/2020.
+
+![img](docusaurus/static/img/BC-12-github-desenho.jpg)
+
+The social network of the future is called GitHub. And by future I don't mean it's going to get the living shit hyped out of it. By future I mean the one who's going to BUILD the future. I kid you not. This shit was invented by github guys and Linus Torvalds - there he goes again, the dude guy who made Linux, that operating system that you can't even fathom to be much simpler to use than Windows.
+
+But it is still a social network. I don't know much about the other social networks, but in GitHub you create your profile in the same way: photo, about, your likes... But you don't post photos, texts, not even 200 character posts, nor do you show off your amazing even though it ain't. There you publish your work. But it's not just any work. It’s code. So, by reading the code of this "match", you find out the coding savvy that person/project has, what it's involved in, if these are more voluntary projects or from some major capitalist corporation, what programming language that person is more experienced in, etc. For example, I just finished writing this and realized that a code speaks louder than 1000 pictures.
+
+About resistance and revolution. This shit is a social network. If you post it there, it's never gonna be yours again. Everyone uses it. You won't make a dime out of it. Like that revenge porn that fucks everybody. But, in this case, no one gets fucked. Like is called a "pull request" and it's a reply to your code improving it.
+
+If that is not resistance and revolution, I don’t know what is. Such camaraderie this IT crowd has. That's because these motherfuckers have huge hearts and don’t want people to go through as much trouble as they did. So they write an amazing manual for free telling you how to run from a miserable afternoon.
+
+Habemus hope.
+
+## [Audio](https://youtu.be/TxK3Xdd-FhY)
+
+**download audio:** [#12 Github. Social network. Resistance. Revolution. Words, images, codes.](docusaurus/static/audio/BC-12-github-audio-remix-en.mp3)
+## [Collective Mode, Asian Dub Foundation](https://open.spotify.com/track/5uycfDlFeV8QcbPlO4Gg4C)
+
+# #13 My Boss
+
+> ID #13. published 12/14/2020.
+
+![img](docusaurus/static/img/BC-13-patrao-desenho.jpg)
+
+I work for the government. There you go. Can you believe it? I code bots that search for data everywhere and compile said data so as to help the decision makers do something more rational.
+
+Regardless of who's in office, I have always done my work in the same way, for the following reason: there is no A, B, Red, Blue, Left, Right without ulterior motives (this is me being polite). So, the better I do my job, the more embarrassed I make these cunts when justifying an unjustifiable decision they make.
+
+In other words, my boss is, has always been and will always be you, the Brazilian citizen.
+## [Audio](https://youtu.be/R8rkL56lSpc)
+
+**download audio:** [#13 My Boss](docusaurus/static/audio/BC-13-patrao-audio-remix-en.mp3)
+## [O Pão de Cada Dia, Gabriel o Pensador](https://open.spotify.com/track/3IAP6p0J8BmuhgvETGkr4T)
+# #14 Rent's gone up. Fuck that.
+
+> ID #14. published 12/18/2020.
+
+![img]((docusaurus/static/img/BC-14-igpm-desenho.jpg)
+
+In every cycle, there comes a time when a bunch of useless fucking middlemen who are shit in everything but in getting their paycheck - like those fucking real estate agent cunts - just so they can wet their whistle a little, the fucks.
+The other day, however, I heard a different story. Better yet, it was the same story, but the other way around. A lessee wanted her rent to go up, whereas the lessor would have none of that shit.
+
+That got me wondering... How does that even happen? That's absurd! Instead of thinking only of themselves, they were thinking of each other.
+It's my undying with that all of us are lucky enough to go through an awkward moment like this at least once in our lives as well.
+
+## [Audio](https://youtu.be/xr67nJo92Qk)
+
+**download audio:** [#14 Rent's gone up. Fuck that.](docusaurus/static/audio/BC-14-igpm-audio-remix-en.mp3)
+
+## [Love Someone, Dub FX](https://open.spotify.com/track/2nwFHAPVMpdiFGrl4GpOhA)
+
+
+# #15 Art as a Living
+
+> ID #15. published 12/21/2020.
+
+![img](docusaurus/static/img/BC-15-artista-profissional-desenho.jpg)
+
+Hey, guys, if you make art as living, please holler at me. I have been, I shit you not, trying to do that for over 10 years, which is curiously the same amount time I've been hitting my to a wal.
+
+Like, my art dies if I gotta meet a deadline and it blooms 10+ times better if no deadline is involved. So I'm actually very ignorant on this.
+
+But the main thing on all of this is: there's no control.
+
+That's my free tip of the day to you (and I could actually use that too).
+
+## [Audio](https://youtu.be/Iwbeo4BjwNo)
+
+**download audio:** [#15 Art as a Living](docusaurus/static/audio/BC-15-artista-profissional-audio-remix-en.mp3)
+
+## [Cheio de Vazio, Paulinho Moska](https://open.spotify.com/track/2nwFHAPVMpdiFGrl4GpOhA)

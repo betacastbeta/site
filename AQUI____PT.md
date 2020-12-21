@@ -59,7 +59,7 @@ A semente começa a brotar...
 
 > ID #3. publicado em 26/09/2020. republicado em 26/10/2020.
 
-![img]((docusaurus/static/img/BC-03-fora-da-onde-desenho.jpg)
+![img](docusaurus/static/img/BC-03-fora-da-onde-desenho.jpg)
 
 Vamos combinar aqui de falar a verdade. Todo mundo sabe que mulher tá anos luz dos homens. É sério. E isso não é problema nenhum. Isso não é (ou não deveria ser) uma disputa. A gente tinha era que agradecer que elas conseguiram segurar essa porra esse tempo todo de explodir e passar a bola de uma vez.
 
@@ -79,7 +79,7 @@ Explico: Não dá pra sair. Vai ficar tudo aqui. A Terra não é fora. O riacho 
 
 > ID #4. publicado em 27/09/2020. republicado em 30/10/2020.
 
-![img]((docusaurus/static/img/BC-04-loucura-desenho.jpg)
+![img](docusaurus/static/img/BC-04-loucura-desenho.jpg)
 
 Esse negócio de internet é o negócio mais louco mesmo que eu já conheci. Parar pra pensar que eu agora consigo instantaneamente acessar praticamente todo conhecimento registrado pela humanidade é uma coisa muito louca mesmo. Louca louca. Crazeeey! (Tá bom, já deu pra entender)
 
@@ -103,7 +103,7 @@ DM @amearquitetura
 
 > ID #5. publicado em 28/09/2020. republicado em 02/11/2020.
 
-![img]((docusaurus/static/img/BC-05-loucura-retorno-desenho.jpg)
+![img](docusaurus/static/img/BC-05-loucura-retorno-desenho.jpg)
 
 Que bom que estou encontrando minhas respostas mais rápido do que esperava. Descobri que com um texto apenas sou capaz de ofender quase todo mundo. Me apego no meu valor, e mentalizo o Pensador: A verdade pode ser manipulada para o mal e para o bem.
 
@@ -123,7 +123,7 @@ Porque disso eu tenho certeza: Se as ações viessem do coração, liberdade nã
 
 > ID #6. publicado em 29/09/2020. republicado em 06/11/2020.
 
-![img]((docusaurus/static/img/BC-06-ali-desenho.jpg)
+![img](docusaurus/static/img/BC-06-ali-desenho.jpg)
 
 Então certa vez fiz um texto sexista sem saber que estava sendo. Fui completamente mal interpretado 2x.
 
@@ -145,7 +145,7 @@ POW! Gratidão.
 
 > ID #7. publicado em 29/09/2020. republicado em 06/11/2020.
 
-![img]((docusaurus/static/img/BC-07-convite-desenho.jpg)
+![img](docusaurus/static/img/BC-07-convite-desenho.jpg)
 
 É isso que está acontecendo com o mundo e a internet. As pessoas estão vendo muito mais intimidade alheia do que se é capaz de assimilar. São todos os tipos de situações que existem. Do nascimento, ao sexo à morte. De todo tipo de gente, de famosos a anônimos. Todos esses acontecimentos possuem um contexto. Várias partes envolvidas participaram com alguma bagagem nessa situação.
 Mas como o volume de situações é enorme, a gente precisa preencher essa lacuna e o que sobra são nossas suposições.
@@ -162,7 +162,7 @@ E aí o distanciamento começa a ocorrer. Amigos de 30 anos estão se separando 
 
 > ID #8. publicado em 01/10/2020. republicado em 13/11/2020.
 
-![img]((docusaurus/static/img/BC-08-comer-viajar-desenho.jpg)
+![img](docusaurus/static/img/BC-08-comer-viajar-desenho.jpg)
 
 Sextou! É dia da maldade. Dia de parar de fingir que você não é a pessoa que você é. Dia de mentalizar energia positiva pra tudo que está te esperando no fim de semana. Dia de fingir que a vida começou! Dia de começar a viver!
 
@@ -196,7 +196,7 @@ Agora é a tua vez de ESCOLHÊ qual vai SÊ do FINDÊ... Pois é! Delícia, né?
 
 > ID #9. publicado em 30/11/2020.
 
-![img]((docusaurus/static/img/BC-09-excesso-paciencia-desenho.jpg)
+![img](docusaurus/static/img/BC-09-excesso-paciencia-desenho.jpg)
 
 Fico pensando assim: o povo brasileiro é tão foda, mas tão foda, que até na paciência a gente é exagerado. Paciência é uma qualidade muito importante pra se navegar nesse mundão e na vida. Importante manter na cabeça pra não fritar que nem peixe agulhinha nas praias de Maceió.
 
@@ -212,7 +212,7 @@ E que paciência é essa que eu tô falando? É pra tudo... desde receber um gri
 
 > ID #10. publicado em 04/12/2020.
 
-![img]((docusaurus/static/img/BC-10-albert-percepcao-desenho.jpg)
+![img](docusaurus/static/img/BC-10-albert-percepcao-desenho.jpg)
 
 Sabe, penso sobre isso também. Perceber os 5 sentidos é trivial. Foi o que recebemos para navegar aqui na materialidade. É o que parece pra gente de mais "concreto". Mas tem uns aí que dizem que temos outros sentidos, só que são muito mais sutis de perceber. Tipo papo de chacras. Essa eu peguei da internet, mas oq mais dizer?: "Segundo Jordan Duchnycz, os chakras são o motor elétrico da alma".
 
@@ -232,7 +232,7 @@ Então... sei lá, né!? Vai saber... De uma certa forma nossas crenças acabam 
 
 > ID #11. publicado em 07/12/2020.
 
-![img]((docusaurus/static/img/BC-11-agua-desenho.jpg)
+![img](docusaurus/static/img/BC-11-agua-desenho.jpg)
 
 Água é vida
 Água é boa
@@ -262,3 +262,76 @@ Estamos nela
 **download audio:** [#11 Água](docusaurus/static/audio/BC-11-agua-audio-remix-pt.mp3)
 
 ## [Água é Tudo, Dois Sóis, Carú Ricardo](https://open.spotify.com/track/6b0hHAWJlQpbeppWXhRdMA)
+
+# #12 GitHub. Rede social. Resistência. Revolução. Palavras, imagens, códigos.
+
+> ID #12. publicado em 11/12/2020.
+
+![img](docusaurus/static/img/BC-12-github-desenho.jpg)
+
+A Rede social do futuro se chama GitHub. Não é do futuro a que vai ser o maior hype cool que todos estão usando. Do futuro, eu quero dizer: quem vai CONSTRUIR o futuro. Não é brincadeira. Essa parada foi inventada por: os caras do Git e Linus Torvalds (Ele de novo. O cara que fez o Linux, aquele sistema operacional que você nem imagina que é muito mais simples de usar que o famoso Windows.)
+
+Mas não deixa de ser uma rede social. Busco ser bem didático, mas conheço pouco as outras redes sociais: você cria um perfil seu do mesmo jeito, foto, about, o que você gosta da vida. Mas você não publica fotos, nem textos, nem textos até 200 letras, nem que sua vida é boa mesmo que não seja. Lá você publica o seu trabalho. Mas não é qualquer trabalho. É código. Então lendo o código desse "match" você descobre a maturidade de programação que a pessoa/projeto tem, no que ela se envolve, se são mais projetos voluntários, se são projetos de alguma empresa capitalista, qual linguagem de programação que essa pessoa tem mais experiência, etc.. do tipo, acabei de escrever isso e imaginei que um código diz mais do que 1000 imagens.
+
+Sobre resistência e revolução. Essa parada é rede social. Botou lá nunca mais é seu. Todo mundo usa. Tu não vai ganhar 1 centavo por isso. Tipo aquele vídeo de revenge porn que todo mundo se fode. Mas nesse caso ninguém se fode. O like do camaradinha chama "pull request" e é um reply pro teu código melhorando ele.
+
+Se isso não é resistência e revolução, eu não sei o que é. Que camaradagem essa galera da TI tem. Isso porque esses felasdaputa tem um coração muito grande e não querem que os outros se fodam tanto quanto eles se fuderam. Aí eles escrevem um super manual de graça te dizendo como escapar de uma tarde miserável.
+
+Habemus esperança.
+
+## [Audio](https://youtu.be/LR5TlLVNlWg)
+
+**download audio:** [#12 GitHub. Rede social. Resistência. Revolução. Palavras, imagens, códigos.](docusaurus/static/audio/BC-12-github-audio-remix-pt.mp3)
+## [Collective Mode, Asian Dub Foundation](https://open.spotify.com/track/5uycfDlFeV8QcbPlO4Gg4C)
+# #13 Meu Patrão
+
+> ID #13. publicado em 14/12/2020.
+
+![img](docusaurus/static/img/BC-13-patrao-desenho.jpg)
+
+Pois é. Sou funcionário público, acredita? Programo robôs que ficam buscando dados em tudo que é canto e junta pra ajudar aos tomadores de decisão fazer algo mais racional.
+
+Independente do governo sempre fiz meu trabalho da mesma forma, pelo seguinte motivo: Não existe A, B, Vermelho, Azul, Esquerda, Direita sem interesses escusos (pra ser educado). Então, quanto melhor eu faço meu trabalho, no mínimo constrangido eu deixo essa galera na hora de justificar uma decisão injustificável.
+
+Ou seja, meu patrão, foi, é, e sempre será você, cidadão brasileiro.
+## [Audio](https://youtu.be/K1VuinR-BRE)
+
+**download audio:** [#13 Meu Patrão](docusaurus/static/audio/BC-13-patrao--audio-remix-pt.mp3)
+## [O Pão de Cada Dia, Gabriel o Pensador](https://open.spotify.com/track/3IAP6p0J8BmuhgvETGkr4T)
+
+# #14 IGP-M. Um absurdo.
+
+> ID #14. publicado em 18/12/2020.
+
+![img](docusaurus/static/img/BC-14-igpm-desenho.jpg)
+
+Todo ciclo chegam aqueles intermediários que não servem pra nada além de cobrar - corretora de imóvel - pra dar aquele UP no esquema.
+Mas outro dia escutei uma história diferente. Ou melhor, invertida. A pessoa que pagava queria aumentar o aluguel enquanto que a que recebia não aceitou.
+
+E aí eu fico aqui pensando.. a que ponto chegou essa relação!? Que absurdo! Em vez de cada um pensar em si próprio tá pensando no outro.
+Desejo que todos tenhamos oportunidades de passar por esse tipo de constrangimento nas nossas vidas também.
+
+## [Audio](https://youtu.be/uisXGuyqAEw)
+
+**download audio:** [#14 IGP-M. Um absurdo.](docusaurus/static/audio/BC-14-igpm-audio-remix-pt.mp3)
+
+## [Love Someone, Dub FX](https://open.spotify.com/track/2nwFHAPVMpdiFGrl4GpOhA)
+
+# #15 Artista Profissional
+
+> ID #15. publicado em 21/12/2020.
+
+![img](docusaurus/static/img/BC-15-artista-profissional-desenho.jpg)
+
+Ae, galera!! Se você é um desses, entra em contato por favor. Estou, sem sacanagem, há pelo menos 10 anos correndo atrás disso e só bato a cabeça na parede.
+
+Do tipo: minha arte morre se tiver prazo e floresce 10x o tempo se não tiver prazo. É tipo papo de ignorância mesmo da minha parte.
+
+Mas o mais importante mesmo dessa história é: there's no control.
+
+Fica a dica. Pra mim, e pra você. 😘
+## [Audio](https://youtu.be/Iwbeo4BjwNo)
+
+**download audio:** [#15 Artista Profissional](docusaurus/static/audio/BC-15-artista-profissional-audio-remix-pt.mp3)
+
+## [Cheio de Vazio, Paulinho Moska](https://open.spotify.com/track/2nwFHAPVMpdiFGrl4GpOhA)
