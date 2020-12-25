@@ -24,3 +24,4 @@ That's all, folks. Hope that drop this wave with the same joy then we do.
 * [#13 My Boss | 12/14/2020](13-boss-en)
 * [#14 Rent's gone up. Fuck that. | 12/18/2020](14-igpm-en)
 * [#15 Art as a Living | 12/21/2020](15-artista-profissional-en)
+* [#16 The Beatles. Você decide. | 12/25/2020](16-beatles-en)

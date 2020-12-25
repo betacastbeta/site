@@ -312,3 +312,27 @@ That's my free tip of the day to you (and I could actually use that too).
 **download audio:** [#15 Art as a Living](docusaurus/static/audio/BC-15-artista-profissional-audio-remix-en.mp3)
 
 ## [Cheio de Vazio, Paulinho Moska](https://open.spotify.com/track/2nwFHAPVMpdiFGrl4GpOhA)
+
+# #16 The Beatles. Você decide.
+
+> ID #16. published 12/25/2020.
+
+![img](docusaurus/static/img/BC-16-beatles-desenho.jpg)
+
+I wish I knew more about them. But life is long. I'll say that I didn't study them a lot, nor have I listened to them enough, as I was only born after they were no more. But somehow I can feel the feeling, the transformation they brought upon the world.
+
+Do you remember "Você Decide"? For the young'uns, here's a piece of really old shit: "Você Decide" was kinda like an episode of a series that Globo aired every week and Tony Ramos was the presenter. The plot would then develop and by then end you could dial two telephone numbers so as to vote for two different endings. The ending with the most votes would win and that's the ending they showed.
+
+Well, now here's the "Você Decide" of these words:
+
+Ending 1:
+A lot of it is because of the little that I've seen, but also because of what they represent to my dad and that **good things are passed on from generation to generation.**
+
+Ending 2:
+A lot of it is because of the little that I've seen, but also because of what they represent to my dad and that **all good things must come to an end.**
+
+## [Audio](https://youtu.be/uDY9Ocki750)
+
+**download audio:** [#16 The Beatles. Você decide.](docusaurus/static/audio/BC-16-beatles-audio-remix-en.mp3)
+
+## [Blackbird, The Beatles](https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr)

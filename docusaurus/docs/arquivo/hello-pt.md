@@ -24,3 +24,4 @@ title: Olá
 * [#13 Meu Patrão | 14/12/2020](13-patrao-pt)
 * [#14 IGP-M. Um absurdo. | 18/12/2020](14-igpm-pt)
 * [#15 Artista Profissional | 21/12/2020](15-artista-profissional-pt)
+* [#16 The Beatles. Você decide. | 25/12/2020](16-beatles-pt)

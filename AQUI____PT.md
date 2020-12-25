@@ -335,3 +335,29 @@ Fica a dica. Pra mim, e pra você. 😘
 **download audio:** [#15 Artista Profissional](docusaurus/static/audio/BC-15-artista-profissional-audio-remix-pt.mp3)
 
 ## [Cheio de Vazio, Paulinho Moska](https://open.spotify.com/track/2nwFHAPVMpdiFGrl4GpOhA)
+
+# #16 The Beatles. Você decide.
+
+> ID #16. publicado em 25/12/2020.
+
+![img](docusaurus/static/img/BC-16-beatles-desenho.jpg)
+
+Eu queria saber mais sobre eles. Mas a vida é longa. Confesso que estudei pouco, escutei pouco e só nasci depois que eles tinham ido. Mas dá de alguma forma pra sentir a emoção, a transformação que eles trouxeram ao mundo.
+
+Lembra do “Você Decide”? Pra quem é mais novo, uma velharia: “Você Decide” era tipo um episódio de um seriado (mas cada um uma história) que passava semanalmente na Globo apresentado pelo Tony Ramos. A história (drama) se desenrolava e no final você tinha 2 números de telefone para discar para votar qual dos dois finais possíveis você queria ver. A maioria vencia e esse final era apresentado no último quadro.
+
+Bom, agora o “Você Decide” deste texto:
+
+Final 1:
+
+Muito pelo pouco que vi, mais ainda porque eles representaram muito para o meu pai e **coisas boas passam entre gerações.**
+
+Final 2:
+
+Muito pelo pouco que vi, mais ainda porque eles representaram muito para o meu pai e **tudo que é bom tem um fim.**
+
+## [Audio](https://youtu.be/F8_mk0mlcfg)
+
+**download audio:** [#16 The Beatles. Você decide.](docusaurus/static/audio/BC-16=beatles-audio-remix-pt.mp3)
+
+## [Blackbird, The Beatles](https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr)

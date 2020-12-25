@@ -21,6 +21,7 @@ module.exports = {
               "arquivo/13-patrao-pt",
               "arquivo/14-igpm-pt",
               "arquivo/15-artista-profissional-pt",
+              "arquivo/16-beatles-pt",
               "playlist/1-playlist"]
     },
   ],
@@ -45,6 +46,7 @@ module.exports = {
               "archive/13-boss-en",
               "archive/14-igpm-en",
               "archive/15-artista-profissional-en",
+              "archive/16-beatles-en",
               "playlist/1-playlist"]
     },
   ],
