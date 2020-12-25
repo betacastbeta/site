@@ -5,7 +5,7 @@ title: 16 The Beatles. Você decide.
 
 > ID #16. published 12/25/2020.
 
-![img](../../static/img/BC-16-beatles-desenho.jpg) <iframe width="370" height="208" src="https://www.youtube.com/embed/uDY9Ocki750" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![img](../../static/img/BC-16-beatles-desenho.jpg) <iframe width="370" height="208" src="https://www.youtube.com/embed/dKwcKFjYyXQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I wish I knew more about them. But life is long. I'll say that I didn't study them a lot, nor have I listened to them enough, as I was only born after they were no more. But somehow I can feel the feeling, the transformation they brought upon the world.
 

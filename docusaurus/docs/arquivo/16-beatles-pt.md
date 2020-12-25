@@ -5,7 +5,7 @@ title: 16 The Beatles. Você decide.
 
 > ID #16. publicado em 25/12/2020.
 
-![img](../../static/img/BC-16-beatles-desenho.jpg) <iframe width="370" height="208" src="https://www.youtube.com/embed/F8_mk0mlcfg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![img](../../static/img/BC-16-beatles-desenho.jpg) <iframe width="370" height="208" src="https://www.youtube.com/embed/CIGo1gIJA10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Eu queria saber mais sobre eles. Mas a vida é longa. Confesso que estudei pouco, escutei pouco e só nasci depois que eles tinham ido. Mas dá de alguma forma pra sentir a emoção, a transformação que eles trouxeram ao mundo.
 

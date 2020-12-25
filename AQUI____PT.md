@@ -356,7 +356,7 @@ Final 2:
 
 Muito pelo pouco que vi, mais ainda porque eles representaram muito para o meu pai e **tudo que é bom tem um fim.**
 
-## [Audio](https://youtu.be/F8_mk0mlcfg)
+## [Audio](https://youtu.be/CIGo1gIJA10)
 
 **download audio:** [#16 The Beatles. Você decide.](docusaurus/static/audio/BC-16=beatles-audio-remix-pt.mp3)
 

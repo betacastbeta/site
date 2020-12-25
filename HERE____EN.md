@@ -331,7 +331,7 @@ A lot of it is because of the little that I've seen, but also because of what th
 Ending 2:
 A lot of it is because of the little that I've seen, but also because of what they represent to my dad and that **all good things must come to an end.**
 
-## [Audio](https://youtu.be/uDY9Ocki750)
+## [Audio](https://youtu.be/dKwcKFjYyXQ)
 
 **download audio:** [#16 The Beatles. Você decide.](docusaurus/static/audio/BC-16-beatles-audio-remix-en.mp3)
 
